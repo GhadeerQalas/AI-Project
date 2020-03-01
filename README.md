@@ -3,5 +3,5 @@ This is a practice project in an open-ended project in AI search techniques.
 
 Author: 
 Ghadeer, 
-Elahm,
+Elham,
 Lena,
