@@ -1,0 +1,1895 @@
+x=4 player=1 visit=17127 win=8710  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=48 player=2 visit=278 win=133
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=25 player=1 visit=0 win=0
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=35 player=1 visit=19167 win=9760  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=9 player=2 visit=348 win=161
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=33 player=1 visit=3 win=1
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=3 player=1 visit=27306 win=13857  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=45 player=2 visit=598 win=296
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=27 player=1 visit=10 win=6
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=46 player=1 visit=47581 win=24247  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=16 player=2 visit=1127 win=551
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=17 player=1 visit=22 win=11
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=59 player=1 visit=12103 win=6192  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=17 player=2 visit=258 win=126
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=27 player=1 visit=4 win=1
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=43 player=1 visit=24762 win=12781  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=56 player=2 visit=501 win=251
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=57 player=1 visit=0 win=0
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=1 player=1 visit=45891 win=24094  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=10 player=2 visit=1306 win=661
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=52 player=1 visit=32 win=17
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=5 player=2 visit=0 win=0
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=41 player=1 visit=38499 win=20031  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=58 player=2 visit=661 win=318
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=56 player=1 visit=14 win=6
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=34 player=1 visit=143685 win=72920  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=57 player=2 visit=7810 win=4046
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=47 player=1 visit=227 win=107
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=53 player=2 visit=7 win=3
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=23 player=1 visit=171288 win=86747  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=55 player=2 visit=6983 win=3474
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=25 player=1 visit=211 win=95
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=58 player=2 visit=5 win=4
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+24 26 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=24 duan=26
+
+
+
+
+
+
+x=18 player=1 visit=324573 win=164718  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=17 player=2 visit=19597 win=9763
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=55 player=1 visit=1088 win=567
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=25 player=2 visit=64 win=34
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=12 player=1 visit=1 win=0
+ depth=5 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+24 26 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=24 duan=26
+
+
+
+
+
+
+x=32 player=1 visit=536820 win=281015  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=12 player=2 visit=65946 win=32121
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=27 player=1 visit=4517 win=2316
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=24 player=2 visit=383 win=192
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+53 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=53 duan=-1
+x=2 player=1 visit=30 win=17
+ depth=5 is_dc=2 dc=26 dc2=-1 bbs=47
+lianxia
+25 26 47 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=47 duan=25
+x=6 player=2 visit=2 win=1
+ depth=6 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+36 42 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=36 duan=42
+
+
+
+
+
+
+x=29 player=1 visit=1607647 win=843361  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=5 player=2 visit=274369 win=132067
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+58 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=58 duan=-1
+x=12 player=1 visit=120759 win=65347
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+54 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=54 duan=-1
+x=47 player=2 visit=25724 win=12610
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=36 player=1 visit=8213 win=4427
+ depth=5 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=42 player=2 visit=3683 win=2044
+ depth=6 is_dc=1 dc=2 dc2=-1 bbs=42
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=42 duan=-1
+x=17 player=1 visit=710 win=307
+ depth=7 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=2 duan=-1
+x=11 player=2 visit=470 win=336
+ depth=8 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=24 player=1 visit=204 win=66
+ depth=9 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+56 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=56 duan=-1
+x=53 player=2 visit=132 win=112
+ depth=10 is_dc=1 dc=27 dc2=-1 bbs=53
+lianxia
+25 26 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=53 duan=26
+x=7 player=1 visit=75 win=13
+ depth=11 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+27 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=27 duan=-1
+x=30 player=2 visit=52 win=52
+ depth=12 is_dc=1 dc=31 dc2=-1 bbs=30
+lianxia
+8 9 49 48 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=30 duan=48
+x=13 player=1 visit=35 win=0
+ depth=13 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+31 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=31 duan=-1
+x=15 player=2 visit=20 win=20
+ depth=14 is_dc=2 dc=14 dc2=16 bbs=15
+lianxia
+33 19 20 21 22 57 14 16 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=13 player=1 visit=1416540 win=160800  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=16 player=2 visit=1277924 win=1201452
+ depth=2 is_dc=1 dc=15 dc2=-1 bbs=16
+lianxia
+14 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=16 duan=14
+x=27 player=1 visit=57749 win=2876
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+15 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=15 duan=-1
+x=17 player=2 visit=55267 win=53842
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+47 53 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=47 duan=53
+x=11 player=1 visit=5762 win=40
+ depth=5 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=2 player=2 visit=1046 win=1046
+ depth=6 is_dc=2 dc=33 dc2=-1 bbs=12
+lianxia
+56 57 22 21 20 19 33 12 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=12 duan=19
+x=5 player=1 visit=515 win=0
+ depth=7 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+36 42 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=36 duan=42
+x=7 player=2 visit=501 win=501
+ depth=8 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+54 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=54 duan=-1
+x=30 player=1 visit=486 win=0
+ depth=9 is_dc=2 dc=31 dc2=-1 bbs=30
+lianxia
+8 9 49 48 31 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=30 duan=48
+
+
+
+
+
+
+x=59 player=1 visit=9209 win=4687  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=31 player=2 visit=180 win=98
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=15 player=1 visit=0 win=0
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=24 player=1 visit=21913 win=11102  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=28 player=2 visit=418 win=208
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=40 player=1 visit=7 win=4
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=34 player=1 visit=30691 win=15541  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=27 player=2 visit=764 win=400
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=26 player=1 visit=15 win=9
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=18 player=1 visit=48307 win=24595  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=28 player=2 visit=947 win=455
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=44 player=1 visit=19 win=10
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=4 player=1 visit=21195 win=10841  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=1 player=2 visit=497 win=261
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=43 player=1 visit=11 win=8
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=56 player=1 visit=14120 win=7217  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=16 player=2 visit=430 win=230
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=52 player=1 visit=7 win=1
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=36 player=1 visit=30175 win=15495  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=12 player=2 visit=1038 win=532
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=25 player=1 visit=29 win=18
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=1 player=2 visit=9 win=4
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+35 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=35 duan=-1
+
+
+
+
+
+
+x=31 player=1 visit=53549 win=28056  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=44 player=2 visit=1935 win=957
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=9 player=1 visit=64 win=38
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=6 player=2 visit=0 win=0
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+10 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=10 duan=-1
+
+
+
+
+
+
+x=6 player=1 visit=107392 win=54819  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=55 player=2 visit=4547 win=2315
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=25 player=1 visit=117 win=53
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=15 player=2 visit=0 win=0
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+35 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=35 duan=-1
+
+
+
+
+
+
+x=43 player=1 visit=139086 win=70831  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=55 player=2 visit=6652 win=3389
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=17 player=1 visit=192 win=90
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=29 player=2 visit=3 win=3
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=46 player=1 visit=141950 win=72018  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=42 player=2 visit=8456 win=4305
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=54 player=1 visit=442 win=226
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=58 player=2 visit=19 win=9
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=1 player=1 visit=4 win=3
+ depth=5 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=23 player=1 visit=236690 win=117423  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=29 player=2 visit=12842 win=6522
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=20 player=1 visit=577 win=286
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=3 player=2 visit=29 win=18
+ depth=4 is_dc=2 dc=19 dc2=-1 bbs=33
+lianxia
+19 33 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=33 duan=-1
+x=5 player=1 visit=5 win=2
+ depth=5 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+48 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=48 duan=-1
+
+
+
+
+
+
+x=11 player=1 visit=1066414 win=539193  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=42 player=2 visit=561806 win=288218
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=45 player=1 visit=176157 win=89053
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=41 player=2 visit=48988 win=25839
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=28 player=1 visit=4628 win=2124
+ depth=5 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=17 player=2 visit=1821 win=1193
+ depth=6 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+53 29 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=53 duan=29
+x=25 player=1 visit=840 win=333
+ depth=7 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=47 player=2 visit=478 win=362
+ depth=8 is_dc=1 dc=26 dc2=-1 bbs=47
+lianxia
+35 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=47 duan=35
+x=1 player=1 visit=248 win=76
+ depth=9 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+26 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=26 duan=-1
+x=48 player=2 visit=178 win=153
+ depth=10 is_dc=1 dc=3 dc2=-1 bbs=48
+lianxia
+30 2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=48 duan=30
+x=13 player=1 visit=54 win=0
+ depth=11 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+3 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=3 duan=-1
+x=5 player=2 visit=40 win=40
+ depth=12 is_dc=2 dc=55 dc2=-1 bbs=5
+lianxia
+14 15 16 57 22 21 20 19 33 32 7 8 9 10 55 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=5 duan=10
+
+
+
+
+
+
+x=25 player=1 visit=1219734 win=471537  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=1 player=2 visit=403158 win=342336
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+35 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=35 duan=-1
+x=26 player=1 visit=16458 win=2256
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+30 2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=30 duan=2
+x=19 player=2 visit=13097 win=12379
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+41 47 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=41 duan=47
+x=3 player=1 visit=1382 win=89
+ depth=5 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+33 20 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=33 duan=20
+x=28 player=2 visit=1252 win=1252
+ depth=6 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+42 48 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=42 duan=48
+x=5 player=1 visit=1238 win=0
+ depth=7 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+53 29 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=53 duan=29
+x=17 player=2 visit=1224 win=1224
+ depth=8 is_dc=2 dc=57 dc2=-1 bbs=17
+lianxia
+55 10 9 8 7 32 13 14 45 21 22 57 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=17 duan=22
+
+
+
+
+
+
+x=5 player=1 visit=1944959 win=15770  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=29 player=2 visit=1922677 win=1916565
+ depth=2 is_dc=2 dc=7 dc2=-1 bbs=32
+lianxia
+55 10 9 8 7 32 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=32 duan=8
+x=53 player=1 visit=290463 win=1575
+ depth=3 is_dc=1 dc=28 dc2=-1 bbs=53
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=53 duan=-1
+x=42 player=2 visit=47036 win=46782
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+28 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=28 duan=-1
+x=26 player=1 visit=8021 win=49
+ depth=5 is_dc=2 dc=3 dc2=-1 bbs=48
+lianxia
+3 48 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=48 duan=-1
+x=17 player=2 visit=7972 win=7972
+ depth=6 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+41 47 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=41 duan=47
+x=21 player=1 visit=3978 win=0
+ depth=7 is_dc=1 dc=22 dc2=-1 bbs=21
+lianxia
+57 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=21 duan=57
+x=13 player=2 visit=3963 win=3963
+ depth=8 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+22 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=22 duan=-1
+x=45 player=1 visit=3947 win=0
+ depth=9 is_dc=2 dc=14 dc2=20 bbs=45
+lianxia
+33 19 14 20 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=17 player=1 visit=3176354 win=2167  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=21 player=2 visit=3175448 win=3173905
+ depth=2 is_dc=1 dc=22 dc2=-1 bbs=21
+lianxia
+57 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=21 duan=57
+x=47 player=1 visit=460724 win=263
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+22 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=22 duan=-1
+x=28 player=2 visit=460388 win=460388
+ depth=4 is_dc=2 dc=26 dc2=-1 bbs=41
+lianxia
+26 41 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=41 duan=-1
+x=13 player=1 visit=460374 win=0
+ depth=5 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+53 29 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=53 duan=29
+x=45 player=2 visit=460357 win=460357
+ depth=6 is_dc=2 dc=14 dc2=20 bbs=45
+lianxia
+33 19 14 20 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=53 player=1 visit=3770644 win=320  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=26 player=2 visit=3770228 win=3770228
+ depth=2 is_dc=2 dc=28 dc2=-1 bbs=29
+lianxia
+28 29 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=29 duan=-1
+x=13 player=1 visit=3770214 win=0
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+41 47 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=41 duan=47
+x=45 player=2 visit=3770200 win=3770200
+ depth=4 is_dc=2 dc=14 dc2=20 bbs=45
+lianxia
+33 19 14 20 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=13 player=1 visit=39201215 win=0  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=45 player=2 visit=39201201 win=39201201
+ depth=2 is_dc=2 dc=14 dc2=20 bbs=45
+lianxia
+33 19 14 20 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=34 player=2 visit=22718 win=11565  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=44 player=1 visit=391 win=187
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=32 player=2 visit=2 win=0
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=15 player=2 visit=64587 win=32501  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=33 player=1 visit=1305 win=663
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=41 player=2 visit=17 win=4
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=18 player=2 visit=28911 win=14604  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=21 player=1 visit=768 win=393
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=45 player=2 visit=10 win=1
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=49 player=2 visit=22443 win=11392  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=42 player=1 visit=465 win=237
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=50 player=2 visit=9 win=2
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=57 player=2 visit=14534 win=7411  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=58 player=1 visit=287 win=146
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=29 player=2 visit=6 win=2
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=54 player=2 visit=20352 win=10402  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=4 player=1 visit=458 win=233
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=56 player=2 visit=8 win=2
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=35 player=2 visit=16333 win=8338  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=45 player=1 visit=453 win=231
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=56 player=2 visit=6 win=3
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=56 player=2 visit=9808 win=5066  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=42 player=1 visit=301 win=163
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=32 player=2 visit=9 win=1
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=0 player=2 visit=124277 win=63265  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=59 player=1 visit=4594 win=2325
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=4 player=2 visit=132 win=67
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=20 player=1 visit=4 win=2
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=6 player=2 visit=123889 win=62608  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=48 player=1 visit=6566 win=3430
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=7 player=2 visit=194 win=92
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=42 player=1 visit=5 win=2
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+8 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=8 duan=-1
+
+
+
+
+
+
+x=12 player=2 visit=149895 win=74662  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=21 player=1 visit=10741 win=5732
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=23 player=2 visit=438 win=212
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=46 player=1 visit=18 win=12
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=1 player=2 visit=4 win=1
+ depth=5 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+47 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=47 duan=-1
+
+
+
+
+
+
+x=22 player=2 visit=495878 win=249821  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=11 player=1 visit=33213 win=16869
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=10 player=2 visit=966 win=454
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=48 player=1 visit=37 win=20
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+9 55 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=9 duan=55
+x=13 player=2 visit=4 win=3
+ depth=5 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=32 player=2 visit=2243498 win=1200748  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=48 player=1 visit=577652 win=271346
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=59 player=2 visit=359426 win=198683
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=23 player=1 visit=59045 win=27025
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=46 player=2 visit=9384 win=5328
+ depth=5 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+58 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=58 duan=-1
+x=25 player=1 visit=1055 win=495
+ depth=6 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+47 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=47 duan=-1
+x=53 player=2 visit=113 win=63
+ depth=7 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+24 41 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=24 duan=41
+x=10 player=1 visit=9 win=3
+ depth=8 is_dc=2 dc=28 dc2=-1 bbs=29
+lianxia
+28 29 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=29 duan=-1
+
+
+
+
+
+
+x=46 player=2 visit=2546747 win=1300124  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=10 player=1 visit=746945 win=466918
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+47 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=47 duan=-1
+x=29 player=2 visit=107171 win=40278
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+9 11 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=9 duan=11
+x=28 player=1 visit=67726 win=51589
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=16 player=2 visit=32542 win=8807
+ depth=5 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+53 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=53 duan=-1
+x=21 player=1 visit=25788 win=21807
+ depth=6 is_dc=1 dc=51 dc2=-1 bbs=21
+lianxia
+17 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=21 duan=17
+x=1 player=2 visit=6109 win=1095
+ depth=7 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+51 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=51 duan=-1
+x=5 player=1 visit=5407 win=4779
+ depth=8 is_dc=1 dc=4 dc2=-1 bbs=5
+lianxia
+31 7 8 43 3 36 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=5 duan=36
+x=58 player=2 visit=711 win=75
+ depth=9 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+4 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=4 duan=-1
+x=25 player=1 visit=588 win=588
+ depth=10 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+23 59 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=23 duan=59
+x=13 player=2 visit=574 win=0
+ depth=11 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+24 41 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=24 duan=41
+x=45 player=1 visit=558 win=558
+ depth=12 is_dc=2 dc=14 dc2=20 bbs=45
+lianxia
+33 19 14 20 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=16 player=2 visit=2574902 win=336460  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=21 player=1 visit=2283115 win=2131961
+ depth=2 is_dc=1 dc=51 dc2=-1 bbs=21
+lianxia
+17 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=21 duan=17
+x=13 player=2 visit=395929 win=27829
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+51 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=51 duan=-1
+x=45 player=1 visit=373452 win=359677
+ depth=4 is_dc=1 dc=14 dc2=20 bbs=45
+lianxia
+33 19 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=24 player=2 visit=27860 win=902
+ depth=5 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+14 20 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=14 duan=20
+x=10 player=1 visit=26863 win=26516
+ depth=6 is_dc=2 dc=25 dc2=-1 bbs=41
+lianxia
+25 41 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=41 duan=-1
+x=3 player=2 visit=4831 win=38
+ depth=7 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+9 11 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=9 duan=11
+x=28 player=1 visit=1587 win=1587
+ depth=8 is_dc=2 dc=1 dc2=-1 bbs=36
+lianxia
+43 8 7 31 4 5 1 36 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=36 duan=5
+x=29 player=2 visit=1573 win=0
+ depth=9 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+53 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=53 duan=-1
+
+
+
+
+
+
+x=29 player=2 visit=2624063 win=41289  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=10 player=1 visit=2568057 win=2559881
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=13 player=2 visit=382524 win=1933
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+9 11 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=9 duan=11
+x=45 player=1 visit=381497 win=380308
+ depth=4 is_dc=1 dc=14 dc2=20 bbs=45
+lianxia
+33 19 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=25 player=2 visit=53717 win=154
+ depth=5 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+14 20 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=14 duan=20
+x=28 player=1 visit=53514 win=53514
+ depth=6 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+24 41 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=24 duan=41
+x=1 player=2 visit=53499 win=0
+ depth=7 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+53 59 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=53 duan=59
+x=5 player=1 visit=53485 win=53485
+ depth=8 is_dc=2 dc=4 dc2=-1 bbs=5
+lianxia
+31 7 8 43 3 36 4 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=5 duan=36
+
+
+
+
+
+
+x=1 player=2 visit=2856591 win=2175  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=5 player=1 visit=2855687 win=2854132
+ depth=2 is_dc=1 dc=4 dc2=-1 bbs=5
+lianxia
+31 7 8 43 3 36 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=5 duan=36
+x=41 player=2 visit=415765 win=272
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+4 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=4 duan=-1
+x=28 player=1 visit=415402 win=415402
+ depth=4 is_dc=2 dc=25 dc2=-1 bbs=24
+lianxia
+25 24 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=24 duan=-1
+x=13 player=2 visit=415388 win=0
+ depth=5 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+53 59 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=53 duan=59
+x=45 player=1 visit=415373 win=415373
+ depth=6 is_dc=2 dc=14 dc2=20 bbs=45
+lianxia
+33 19 14 20 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=41 player=2 visit=3734356 win=320  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=28 player=1 visit=3733936 win=3733936
+ depth=2 is_dc=2 dc=25 dc2=-1 bbs=24
+lianxia
+25 24 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=24 duan=-1
+x=13 player=2 visit=3733920 win=0
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+53 59 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=53 duan=59
+x=45 player=1 visit=3733906 win=3733906
+ depth=4 is_dc=2 dc=14 dc2=20 bbs=45
+lianxia
+33 19 14 20 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=13 player=2 visit=38836193 win=0  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=45 player=1 visit=38836179 win=38836179
+ depth=2 is_dc=2 dc=14 dc2=20 bbs=45
+lianxia
+33 19 14 20 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=35 player=2 visit=15838 win=8054  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=12 player=1 visit=300 win=156
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=25 player=2 visit=3 win=0
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=51 player=2 visit=23729 win=12028  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=9 player=1 visit=544 win=285
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=50 player=2 visit=4 win=0
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=13 player=2 visit=52000 win=26331  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=1 player=1 visit=903 win=448
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=6 player=2 visit=15 win=6
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=32 player=2 visit=32612 win=16491  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=11 player=1 visit=663 win=326
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=19 player=2 visit=16 win=13
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=6 player=2 visit=37982 win=19236  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=45 player=1 visit=938 win=467
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=17 player=2 visit=24 win=16
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=0 player=1 visit=4 win=1
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=48 player=2 visit=23202 win=11853  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=30 player=1 visit=606 win=318
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=17 player=2 visit=14 win=8
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=55 player=2 visit=20134 win=10280  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=53 player=1 visit=379 win=165
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=47 player=2 visit=0 win=0
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=1 player=2 visit=92557 win=47482  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=27 player=1 visit=3280 win=1643
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=5 player=2 visit=95 win=47
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=12 player=1 visit=5 win=3
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=0 player=2 visit=96816 win=49684  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=5 player=1 visit=3706 win=1838
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=20 player=2 visit=116 win=58
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=23 player=1 visit=0 win=0
+ depth=4 is_dc=2 dc=21 dc2=-1 bbs=22
+lianxia
+21 22 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=22 duan=-1
+
+
+
+
+
+
+x=42 player=2 visit=115925 win=58906  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=59 player=1 visit=6704 win=3424
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=19 player=2 visit=326 win=171
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=26 player=1 visit=11 win=5
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=41 player=2 visit=182217 win=90640  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=56 player=1 visit=12165 win=6272
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=25 player=2 visit=712 win=365
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=26 player=1 visit=23 win=6
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=5 player=2 visit=0 win=0
+ depth=5 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+40 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=40 duan=-1
+
+
+
+
+
+
+x=23 player=2 visit=1166910 win=589940  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=26 player=1 visit=574652 win=295534
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=14 player=2 visit=10252 win=4631
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=56 player=1 visit=1669 win=1096
+ depth=4 is_dc=2 dc=15 dc2=-1 bbs=16
+lianxia
+39 15 16 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=16 duan=39
+x=19 player=2 visit=198 win=94
+ depth=5 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=33 player=1 visit=11 win=4
+ depth=6 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=18 player=2 visit=858040 win=438872  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=5 player=1 visit=420422 win=212367
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=56 player=2 visit=176442 win=92487
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=17 player=1 visit=65994 win=33328
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=29 player=2 visit=9098 win=4668
+ depth=5 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=25 player=1 visit=1299 win=695
+ depth=6 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+59 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=59 duan=-1
+x=47 player=2 visit=139 win=63
+ depth=7 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+24 40 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=24 duan=40
+x=2 player=1 visit=21 win=15
+ depth=8 is_dc=2 dc=27 dc2=-1 bbs=53
+lianxia
+27 53 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=53 duan=-1
+x=7 player=2 visit=4 win=1
+ depth=9 is_dc=2 dc=4 dc2=-1 bbs=54
+lianxia
+36 3 4 54 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=54 duan=36
+
+
+
+
+
+
+x=11 player=2 visit=1632599 win=739750  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=17 player=1 visit=1412892 win=792792
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=25 player=2 visit=78781 win=34169
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=33 player=1 visit=12265 win=8384
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+24 40 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=24 duan=40
+x=53 player=2 visit=1433 win=423
+ depth=5 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+12 19 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=12 duan=19
+x=29 player=1 visit=864 win=732
+ depth=6 is_dc=2 dc=27 dc2=-1 bbs=47
+lianxia
+27 47 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=47 duan=-1
+x=7 player=2 visit=288 win=41
+ depth=7 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+59 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=59 duan=-1
+x=14 player=1 visit=199 win=199
+ depth=8 is_dc=2 dc=31 dc2=-1 bbs=30
+lianxia
+8 9 10 56 31 30 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=30 duan=56
+x=2 player=2 visit=91 win=0
+ depth=9 is_dc=2 dc=15 dc2=57 bbs=16
+lianxia
+39 20 21 22 15 57 16 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+x=5 player=1 visit=76 win=76
+ depth=10 is_dc=2 dc=4 dc2=-1 bbs=5
+lianxia
+36 3 4 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=5 duan=36
+
+
+
+
+
+
+x=2 player=2 visit=2075507 win=187385  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=5 player=1 visit=1936302 win=1822032
+ depth=2 is_dc=1 dc=4 dc2=-1 bbs=5
+lianxia
+36 3 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=5 duan=36
+x=47 player=2 visit=283449 win=17955
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+4 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=4 duan=-1
+x=29 player=1 visit=254785 win=249682
+ depth=4 is_dc=2 dc=27 dc2=-1 bbs=53
+lianxia
+27 53 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=53 duan=-1
+x=7 player=2 visit=54916 win=1725
+ depth=5 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+59 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=59 duan=-1
+x=30 player=1 visit=53708 win=52756
+ depth=6 is_dc=1 dc=31 dc2=-1 bbs=30
+lianxia
+8 9 10 56 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=30 duan=56
+x=40 player=2 visit=8460 win=178
+ depth=7 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+31 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=31 duan=-1
+x=33 player=1 visit=8226 win=8226
+ depth=8 is_dc=2 dc=25 dc2=-1 bbs=24
+lianxia
+25 24 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=24 duan=-1
+x=14 player=2 visit=8212 win=0
+ depth=9 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+12 19 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=12 duan=19
+x=16 player=1 visit=8196 win=8196
+ depth=10 is_dc=2 dc=15 dc2=57 bbs=16
+lianxia
+39 20 21 22 15 57 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=7 player=2 visit=2539672 win=24743  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=30 player=1 visit=2522658 win=2507106
+ depth=2 is_dc=1 dc=31 dc2=-1 bbs=30
+lianxia
+8 9 10 56 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=30 duan=56
+x=29 player=2 visit=287312 win=2245
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+31 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=31 duan=-1
+x=25 player=1 visit=285146 win=283946
+ depth=4 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+59 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=59 duan=-1
+x=27 player=2 visit=39756 win=148
+ depth=5 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+24 40 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=24 duan=40
+x=33 player=1 visit=39562 win=39562
+ depth=6 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+47 53 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=47 duan=53
+x=14 player=2 visit=39546 win=0
+ depth=7 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+12 19 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=12 duan=19
+x=16 player=1 visit=39532 win=39532
+ depth=8 is_dc=2 dc=15 dc2=57 bbs=16
+lianxia
+39 20 21 22 15 57 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=29 player=2 visit=1915477 win=2446  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=33 player=1 visit=1913430 win=1912009
+ depth=2 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+59 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=59 duan=-1
+x=53 player=2 visit=279538 win=251
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+12 19 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=12 duan=19
+x=25 player=1 visit=279211 win=279211
+ depth=4 is_dc=2 dc=27 dc2=-1 bbs=47
+lianxia
+27 47 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=47 duan=-1
+x=14 player=2 visit=279197 win=0
+ depth=5 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+24 40 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=24 duan=40
+x=16 player=1 visit=279182 win=279182
+ depth=6 is_dc=2 dc=15 dc2=57 bbs=16
+lianxia
+39 20 21 22 15 57 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=40 player=2 visit=3870074 win=319  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=27 player=1 visit=3869673 win=3869673
+ depth=2 is_dc=2 dc=25 dc2=-1 bbs=24
+lianxia
+25 24 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=24 duan=-1
+x=14 player=2 visit=3869658 win=0
+ depth=3 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+47 53 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=47 duan=53
+x=16 player=1 visit=3869644 win=3869644
+ depth=4 is_dc=2 dc=15 dc2=57 bbs=16
+lianxia
+39 20 21 22 15 57 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+
+x=14 player=2 visit=38950473 win=0  depth=1 is_dc=0 dc=-1 dc2=-1 bbs=-1
+lianxia
+x=16 player=1 visit=38950459 win=38950459
+ depth=2 is_dc=2 dc=15 dc2=57 bbs=16
+lianxia
+39 20 21 22 15 57 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+liangduan: duan=-1 duan=-1
+
+
+
+
+
+

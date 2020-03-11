@@ -1,0 +1,2565 @@
+win=7828 visit=15554 rate=0.503279 x=1
+win=10095 visit=19865 rate=0.508180 x=2
+win=10064 visit=20031 rate=0.502421 x=3
+win=8710 visit=17127 rate=0.508554 x=4
+win=7313 visit=14781 rate=0.494757 x=5
+win=8030 visit=16279 rate=0.493274 x=6
+win=11919 visit=23990 rate=0.496832 x=7
+win=27773 visit=55152 rate=0.503572 x=8
+win=20623 visit=41251 rate=0.499939 x=9
+win=10675 visit=21391 rate=0.499042 x=10
+win=8488 visit=16938 rate=0.501122 x=11
+win=8304 visit=16815 rate=0.493845 x=12
+win=13704 visit=27388 rate=0.500365 x=13
+win=24607 visit=49313 rate=0.498996 x=14
+win=27808 visit=55466 rate=0.501352 x=15
+win=14679 visit=29347 rate=0.500187 x=16
+win=8057 visit=16246 rate=0.495937 x=17
+win=10082 visit=19962 rate=0.505060 x=18
+win=11984 visit=24156 rate=0.496109 x=19
+win=21556 visit=43180 rate=0.499213 x=20
+win=25909 visit=51435 rate=0.503723 x=21
+win=12922 visit=25987 rate=0.497249 x=22
+win=9284 visit=18470 rate=0.502653 x=23
+win=8045 visit=16190 rate=0.496912 x=24
+win=9813 visit=19635 rate=0.499771 x=25
+win=13919 visit=27725 rate=0.502038 x=26
+win=12135 visit=24415 rate=0.497031 x=27
+win=8853 visit=17926 rate=0.493864 x=28
+win=10032 visit=19864 rate=0.505034 x=29
+win=8157 visit=16381 rate=0.497955 x=30
+win=7938 visit=16038 rate=0.494949 x=31
+win=12133 visit=24008 rate=0.505373 x=32
+win=12601 visit=25081 rate=0.502412 x=33
+win=8521 visit=17240 rate=0.494258 x=34
+win=7241 visit=14422 rate=0.502080 x=35
+win=7517 visit=15140 rate=0.496499 x=36
+win=18827 visit=37796 rate=0.498121 x=38
+win=22725 visit=45055 rate=0.504384 x=39
+win=12306 visit=24713 rate=0.497957 x=40
+win=8477 visit=16916 rate=0.501123 x=41
+win=10482 visit=20708 rate=0.506181 x=42
+win=11394 visit=22679 rate=0.502403 x=43
+win=17909 visit=35662 rate=0.502187 x=44
+win=17743 visit=35400 rate=0.501215 x=45
+win=11673 visit=23392 rate=0.499017 x=46
+win=6545 visit=13170 rate=0.496963 x=47
+win=7053 visit=14214 rate=0.496201 x=48
+win=8808 visit=17546 rate=0.501995 x=49
+win=10963 visit=21868 rate=0.501326 x=50
+win=8330 visit=16892 rate=0.493133 x=51
+win=7719 visit=15471 rate=0.498933 x=52
+win=5218 visit=10497 rate=0.497094 x=53
+win=4668 visit=9504 rate=0.491162 x=54
+win=4889 visit=9861 rate=0.495792 x=55
+win=5605 visit=11144 rate=0.502961 x=56
+win=5431 visit=10738 rate=0.505774 x=57
+win=4727 visit=9430 rate=0.501273 x=58
+win=4150 visit=8280 rate=0.501208 x=59
+final win=8710 visit=17127 rate=0.508554 x=4
+final headvisit=1325125,cnt=58
+
+
+win=7562 visit=15209 rate=0.497206 x=1
+win=6643 visit=13587 rate=0.488923 x=2
+win=9492 visit=19117 rate=0.496521 x=3
+win=8186 visit=16460 rate=0.497327 x=5
+win=12676 visit=25120 rate=0.504618 x=6
+win=5846 visit=12762 rate=0.458079 x=7
+win=19042 visit=38570 rate=0.493700 x=9
+win=12776 visit=25615 rate=0.498770 x=10
+win=7464 visit=15149 rate=0.492706 x=11
+win=11111 visit=22285 rate=0.498586 x=12
+win=18486 visit=37075 rate=0.498611 x=13
+win=29652 visit=59804 rate=0.495820 x=14
+win=32265 visit=64784 rate=0.498040 x=15
+win=19637 visit=39026 rate=0.503177 x=16
+win=8880 visit=17904 rate=0.495979 x=17
+win=10808 visit=21597 rate=0.500440 x=18
+win=17058 visit=34033 rate=0.501219 x=19
+win=24512 visit=49320 rate=0.496999 x=20
+win=32558 visit=64721 rate=0.503052 x=21
+win=17155 visit=34255 rate=0.500803 x=22
+win=9524 visit=19096 rate=0.498743 x=23
+win=10452 visit=20833 rate=0.501704 x=24
+win=10045 visit=20272 rate=0.495511 x=25
+win=16672 visit=33196 rate=0.502229 x=26
+win=14937 visit=29984 rate=0.498166 x=27
+win=12721 visit=25318 rate=0.502449 x=28
+win=10180 visit=20311 rate=0.501206 x=29
+win=9684 visit=19468 rate=0.497432 x=30
+win=7492 visit=15299 rate=0.489705 x=31
+win=16013 visit=31881 rate=0.502274 x=32
+win=14651 visit=29130 rate=0.502952 x=33
+win=11875 visit=23668 rate=0.501732 x=34
+win=9760 visit=19167 rate=0.509209 x=35
+win=9713 visit=19377 rate=0.501264 x=36
+win=26750 visit=53182 rate=0.502990 x=39
+win=14953 visit=29992 rate=0.498566 x=40
+win=8725 visit=17609 rate=0.495485 x=41
+win=9943 visit=20000 rate=0.497150 x=42
+win=10724 visit=21494 rate=0.498930 x=43
+win=22938 visit=45742 rate=0.501465 x=44
+win=20358 visit=40656 rate=0.500738 x=45
+win=14920 visit=29688 rate=0.502560 x=46
+win=7028 visit=14185 rate=0.495453 x=47
+win=9177 visit=18252 rate=0.502794 x=48
+win=9077 visit=18067 rate=0.502408 x=49
+win=10298 visit=20697 rate=0.497560 x=50
+win=9697 visit=19505 rate=0.497155 x=51
+win=8106 visit=16293 rate=0.497514 x=52
+win=5212 visit=10536 rate=0.494685 x=53
+win=6138 visit=12325 rate=0.498012 x=54
+win=4963 visit=10006 rate=0.496002 x=55
+win=5864 visit=11701 rate=0.501154 x=56
+win=4179 visit=8572 rate=0.487517 x=57
+win=4807 visit=9663 rate=0.497465 x=58
+win=3758 visit=7642 rate=0.491756 x=59
+final win=9760 visit=19167 rate=0.509209 x=35
+final headvisit=1389200,cnt=55
+
+
+win=9338 visit=18561 rate=0.503098 x=1
+win=8588 visit=17251 rate=0.497826 x=2
+win=13857 visit=27306 rate=0.507471 x=3
+win=9671 visit=19321 rate=0.500543 x=5
+win=13615 visit=27090 rate=0.502584 x=6
+win=5567 visit=12264 rate=0.453930 x=7
+win=29571 visit=58784 rate=0.503045 x=9
+win=16424 visit=32543 rate=0.504686 x=10
+win=10377 visit=20615 rate=0.503371 x=11
+win=14874 visit=29575 rate=0.502925 x=12
+win=7942 visit=17250 rate=0.460406 x=13
+win=36141 visit=72650 rate=0.497467 x=15
+win=17278 visit=34807 rate=0.496394 x=16
+win=10159 visit=20343 rate=0.499386 x=17
+win=13010 visit=25902 rate=0.502278 x=18
+win=24843 visit=49107 rate=0.505895 x=19
+win=31985 visit=63936 rate=0.500266 x=20
+win=37760 visit=74845 rate=0.504509 x=21
+win=17372 visit=34827 rate=0.498808 x=22
+win=10919 visit=21759 rate=0.501815 x=23
+win=10232 visit=20637 rate=0.495808 x=24
+win=13890 visit=27793 rate=0.499766 x=25
+win=17374 visit=34783 rate=0.499497 x=26
+win=19494 visit=38711 rate=0.503578 x=27
+win=15580 visit=30749 rate=0.506683 x=28
+win=10943 visit=21835 rate=0.501168 x=29
+win=10875 visit=21790 rate=0.499082 x=30
+win=10860 visit=21616 rate=0.502406 x=31
+win=16709 visit=33338 rate=0.501200 x=32
+win=20683 visit=41363 rate=0.500036 x=33
+win=14619 visit=29145 rate=0.501595 x=34
+win=10241 visit=20438 rate=0.501076 x=36
+win=15061 visit=30344 rate=0.496342 x=40
+win=10702 visit=21428 rate=0.499440 x=41
+win=11977 visit=23856 rate=0.502054 x=42
+win=13422 visit=26610 rate=0.504397 x=43
+win=26026 visit=51617 rate=0.504214 x=44
+win=25033 visit=49900 rate=0.501663 x=45
+win=13847 visit=27736 rate=0.499243 x=46
+win=8510 visit=16974 rate=0.501355 x=47
+win=8346 visit=16813 rate=0.496402 x=48
+win=8533 visit=17115 rate=0.498569 x=49
+win=12628 visit=25076 rate=0.503589 x=50
+win=12210 visit=24235 rate=0.503817 x=51
+win=8422 visit=16900 rate=0.498343 x=52
+win=6846 visit=13547 rate=0.505352 x=53
+win=5777 visit=11700 rate=0.493761 x=54
+win=4737 visit=9630 rate=0.491900 x=55
+win=5625 visit=11311 rate=0.497304 x=56
+win=5501 visit=10991 rate=0.500500 x=57
+win=4757 visit=9602 rate=0.495418 x=58
+win=3615 visit=7413 rate=0.487657 x=59
+final win=13857 visit=27306 rate=0.507471 x=3
+final headvisit=1443732,cnt=52
+
+
+win=9937 visit=19762 rate=0.502834 x=1
+win=10768 visit=21541 rate=0.499884 x=2
+win=12336 visit=24437 rate=0.504808 x=5
+win=14503 visit=28981 rate=0.500431 x=6
+win=7177 visit=15587 rate=0.460448 x=7
+win=37907 visit=75406 rate=0.502705 x=9
+win=12972 visit=26053 rate=0.497908 x=10
+win=10539 visit=21065 rate=0.500309 x=11
+win=18917 visit=37590 rate=0.503246 x=12
+win=10096 visit=21761 rate=0.463949 x=13
+win=65377 visit=129798 rate=0.503683 x=15
+win=25750 visit=51299 rate=0.501959 x=16
+win=12788 visit=25456 rate=0.502357 x=17
+win=15544 visit=31135 rate=0.499245 x=18
+win=9772 visit=21395 rate=0.456742 x=19
+win=46433 visit=92757 rate=0.500588 x=21
+win=20565 visit=41382 rate=0.496955 x=22
+win=13193 visit=26192 rate=0.503703 x=23
+win=17925 visit=35205 rate=0.509161 x=24
+win=15909 visit=31905 rate=0.498637 x=25
+win=19804 visit=39472 rate=0.501723 x=26
+win=21637 visit=43230 rate=0.500509 x=27
+win=18892 visit=37295 rate=0.506556 x=28
+win=10219 visit=20731 rate=0.492933 x=29
+win=13102 visit=26236 rate=0.499390 x=30
+win=9849 visit=19848 rate=0.496221 x=31
+win=18735 visit=37528 rate=0.499227 x=32
+win=28093 visit=56077 rate=0.500972 x=33
+win=27050 visit=53475 rate=0.505844 x=34
+win=11871 visit=23673 rate=0.501457 x=36
+win=12909 visit=25651 rate=0.503255 x=41
+win=14280 visit=28459 rate=0.501774 x=42
+win=9751 visit=19590 rate=0.497754 x=43
+win=23109 visit=46255 rate=0.499600 x=44
+win=21820 visit=43876 rate=0.497311 x=45
+win=24247 visit=47581 rate=0.509594 x=46
+win=9130 visit=18201 rate=0.501621 x=47
+win=3652 visit=7975 rate=0.457931 x=48
+win=12641 visit=25329 rate=0.499072 x=50
+win=12069 visit=24213 rate=0.498451 x=51
+win=10423 visit=20782 rate=0.501540 x=52
+win=5910 visit=11950 rate=0.494561 x=53
+win=7193 visit=14384 rate=0.500070 x=54
+win=4916 visit=10089 rate=0.487263 x=55
+win=7201 visit=14270 rate=0.504625 x=56
+win=5140 visit=10421 rate=0.493235 x=57
+win=6105 visit=12112 rate=0.504046 x=58
+win=4811 visit=9626 rate=0.499792 x=59
+final win=24247 visit=47581 rate=0.509594 x=46
+final headvisit=1527036,cnt=48
+
+
+win=10519 visit=20964 rate=0.501765 x=1
+win=14793 visit=29125 rate=0.507914 x=2
+win=14554 visit=28640 rate=0.508170 x=5
+win=18013 visit=35713 rate=0.504382 x=6
+win=6652 visit=14690 rate=0.452825 x=7
+win=45673 visit=90674 rate=0.503706 x=9
+win=17563 visit=34840 rate=0.504104 x=10
+win=11183 visit=22335 rate=0.500694 x=11
+win=21468 visit=42651 rate=0.503341 x=12
+win=13487 visit=29072 rate=0.463917 x=13
+win=84040 visit=167222 rate=0.502565 x=15
+win=31824 visit=63352 rate=0.502336 x=16
+win=14683 visit=29073 rate=0.505039 x=17
+win=21705 visit=43077 rate=0.503865 x=18
+win=4610 visit=11160 rate=0.413082 x=19
+win=4008 visit=9907 rate=0.404562 x=20
+win=3902 visit=9678 rate=0.403182 x=21
+win=37136 visit=73381 rate=0.506071 x=22
+win=15253 visit=30077 rate=0.507132 x=23
+win=15690 visit=31028 rate=0.505672 x=24
+win=22744 visit=44874 rate=0.506841 x=25
+win=17535 visit=34938 rate=0.501889 x=26
+win=23633 visit=46703 rate=0.506027 x=27
+win=19412 visit=38349 rate=0.506193 x=28
+win=16173 visit=31893 rate=0.507102 x=29
+win=16530 visit=32714 rate=0.505288 x=30
+win=13226 visit=26199 rate=0.504828 x=31
+win=21074 visit=41937 rate=0.502516 x=32
+win=40277 visit=80209 rate=0.502151 x=33
+win=25067 visit=49909 rate=0.502254 x=34
+win=15802 visit=31057 rate=0.508806 x=36
+win=11673 visit=23175 rate=0.503689 x=41
+win=18403 visit=36279 rate=0.507263 x=42
+win=10977 visit=21793 rate=0.503694 x=43
+win=20916 visit=41036 rate=0.509699 x=44
+win=10805 visit=21486 rate=0.502886 x=47
+win=4326 visit=9300 rate=0.465161 x=48
+win=19252 visit=37968 rate=0.507059 x=50
+win=14206 visit=28412 rate=0.500000 x=51
+win=12429 visit=24661 rate=0.503994 x=52
+win=7614 visit=15110 rate=0.503905 x=53
+win=8754 visit=17258 rate=0.507243 x=54
+win=7525 visit=14865 rate=0.506223 x=55
+win=8394 visit=16487 rate=0.509128 x=56
+win=5805 visit=11615 rate=0.499785 x=57
+win=5850 visit=11667 rate=0.501414 x=58
+win=6192 visit=12103 rate=0.511609 x=59
+final win=6192 visit=12103 rate=0.511609 x=59
+final headvisit=1618656,cnt=47
+
+
+win=13071 visit=25636 rate=0.509869 x=1
+win=16449 visit=32080 rate=0.512749 x=2
+win=16402 visit=32251 rate=0.508573 x=5
+win=18809 visit=37251 rate=0.504926 x=6
+win=8782 visit=18937 rate=0.463748 x=7
+win=49523 visit=98849 rate=0.500996 x=9
+win=21696 visit=42806 rate=0.506845 x=10
+win=18001 visit=35143 rate=0.512221 x=11
+win=29002 visit=57222 rate=0.506833 x=12
+win=4192 visit=10285 rate=0.407584 x=13
+win=4297 visit=10645 rate=0.403664 x=14
+win=4381 visit=10801 rate=0.405611 x=15
+win=44435 visit=88275 rate=0.503370 x=16
+win=20610 visit=40344 rate=0.510857 x=17
+win=25933 visit=51236 rate=0.506148 x=18
+win=4399 visit=10788 rate=0.407768 x=19
+win=4321 visit=10666 rate=0.405119 x=20
+win=4319 visit=10640 rate=0.405921 x=21
+win=46202 visit=91439 rate=0.505277 x=22
+win=19623 visit=38578 rate=0.508658 x=23
+win=19366 visit=38037 rate=0.509136 x=24
+win=25919 visit=51128 rate=0.506943 x=25
+win=25782 visit=50728 rate=0.508240 x=26
+win=32193 visit=63513 rate=0.506873 x=27
+win=25068 visit=49586 rate=0.505546 x=28
+win=19485 visit=38228 rate=0.509705 x=29
+win=18545 visit=36510 rate=0.507943 x=30
+win=12060 visit=23838 rate=0.505915 x=31
+win=30011 visit=59781 rate=0.502016 x=32
+win=38962 visit=77793 rate=0.500842 x=33
+win=30305 visit=59852 rate=0.506332 x=34
+win=16414 visit=32338 rate=0.507576 x=36
+win=14516 visit=28512 rate=0.509119 x=41
+win=18439 visit=36311 rate=0.507808 x=42
+win=12781 visit=24762 rate=0.516154 x=43
+win=14796 visit=29079 rate=0.508821 x=47
+win=4648 visit=10033 rate=0.463271 x=48
+win=24192 visit=47778 rate=0.506342 x=50
+win=24094 visit=47337 rate=0.508989 x=51
+win=13965 visit=27531 rate=0.507246 x=52
+win=8080 visit=16100 rate=0.501863 x=53
+win=9658 visit=19013 rate=0.507968 x=54
+win=9061 visit=17733 rate=0.510968 x=55
+win=7813 visit=15487 rate=0.504488 x=56
+win=6504 visit=12915 rate=0.503600 x=57
+win=4587 visit=9057 rate=0.506459 x=58
+final win=12781 visit=24762 rate=0.516154 x=43
+final headvisit=1676852,cnt=46
+
+
+win=24094 visit=45891 rate=0.525027 x=1
+win=2825 visit=6098 rate=0.463267 x=2
+win=18654 visit=36375 rate=0.512825 x=5
+win=24645 visit=48211 rate=0.511190 x=6
+win=3523 visit=8388 rate=0.420005 x=7
+win=5813 visit=13864 rate=0.419287 x=8
+win=5731 visit=13605 rate=0.421242 x=9
+win=27959 visit=54741 rate=0.510751 x=10
+win=17200 visit=33652 rate=0.511114 x=11
+win=36858 visit=72430 rate=0.508878 x=12
+win=10052 visit=24292 rate=0.413799 x=13
+win=10430 visit=25578 rate=0.407772 x=14
+win=11400 visit=27875 rate=0.408969 x=15
+win=97489 visit=192923 rate=0.505326 x=16
+win=21606 visit=42510 rate=0.508257 x=17
+win=29187 visit=57549 rate=0.507168 x=18
+win=4916 visit=11849 rate=0.414887 x=19
+win=7058 visit=16446 rate=0.429162 x=20
+win=4965 visit=11980 rate=0.414441 x=21
+win=73410 visit=143585 rate=0.511265 x=22
+win=20687 visit=40758 rate=0.507557 x=23
+win=19328 visit=37933 rate=0.509530 x=24
+win=30807 visit=60216 rate=0.511608 x=25
+win=28448 visit=55609 rate=0.511572 x=26
+win=37054 visit=72580 rate=0.510526 x=27
+win=25627 visit=50667 rate=0.505793 x=28
+win=20235 visit=39562 rate=0.511476 x=29
+win=19476 visit=37684 rate=0.516824 x=30
+win=16666 visit=31989 rate=0.520992 x=31
+win=43330 visit=85359 rate=0.507621 x=32
+win=64099 visit=125237 rate=0.511822 x=33
+win=32122 visit=63300 rate=0.507457 x=34
+win=13240 visit=25684 rate=0.515496 x=36
+win=17323 visit=33592 rate=0.515688 x=41
+win=15757 visit=30866 rate=0.510497 x=47
+win=4932 visit=10263 rate=0.480561 x=48
+win=30372 visit=60171 rate=0.504761 x=51
+win=16593 visit=32563 rate=0.509566 x=52
+win=8581 visit=16987 rate=0.505151 x=53
+win=9541 visit=18836 rate=0.506530 x=54
+win=8779 visit=17148 rate=0.511955 x=55
+win=5777 visit=11493 rate=0.502654 x=56
+win=6442 visit=12699 rate=0.507284 x=57
+win=4255 visit=8418 rate=0.505464 x=58
+final win=24094 visit=45891 rate=0.525027 x=1
+final headvisit=1867456,cnt=44
+
+
+win=2631 visit=5982 rate=0.439819 x=2
+win=22427 visit=43511 rate=0.515433 x=5
+win=30763 visit=59952 rate=0.513127 x=6
+win=6720 visit=14807 rate=0.453839 x=7
+win=12948 visit=28591 rate=0.452870 x=8
+win=10411 visit=23064 rate=0.451396 x=9
+win=31401 visit=61233 rate=0.512812 x=10
+win=31866 visit=61550 rate=0.517725 x=11
+win=59284 visit=116462 rate=0.509042 x=12
+win=12877 visit=34056 rate=0.378113 x=13
+win=41362 visit=80655 rate=0.512826 x=17
+win=41126 visit=80298 rate=0.512167 x=18
+win=30484 visit=68169 rate=0.447183 x=19
+win=31014 visit=69386 rate=0.446978 x=20
+win=31649 visit=70872 rate=0.446566 x=21
+win=100718 visit=199095 rate=0.505879 x=22
+win=27680 visit=54143 rate=0.511239 x=23
+win=26733 visit=51686 rate=0.517219 x=24
+win=30549 visit=59740 rate=0.511366 x=25
+win=27620 visit=54010 rate=0.511387 x=26
+win=41107 visit=80498 rate=0.510659 x=27
+win=41455 visit=80562 rate=0.514573 x=28
+win=25602 visit=49798 rate=0.514117 x=29
+win=8017 visit=16720 rate=0.479486 x=30
+win=52604 visit=102851 rate=0.511458 x=32
+win=123140 visit=242632 rate=0.507518 x=33
+win=41200 visit=80184 rate=0.513818 x=34
+win=2659 visit=6040 rate=0.440232 x=36
+win=20031 visit=38499 rate=0.520299 x=41
+win=3048 visit=6790 rate=0.448895 x=42
+win=22527 visit=43518 rate=0.517648 x=47
+win=6044 visit=12565 rate=0.481019 x=48
+win=37488 visit=73032 rate=0.513309 x=52
+win=12964 visit=25370 rate=0.510997 x=53
+win=11859 visit=23195 rate=0.511274 x=54
+win=11462 visit=22113 rate=0.518338 x=55
+win=2930 visit=5853 rate=0.500598 x=56
+win=5037 visit=9807 rate=0.513613 x=57
+win=4684 visit=9140 rate=0.512473 x=58
+final win=20031 visit=38499 rate=0.520299 x=41
+final headvisit=2166429,cnt=39
+
+
+win=4274 visit=9516 rate=0.449138 x=2
+win=50163 visit=99642 rate=0.503432 x=5
+win=48130 visit=95698 rate=0.502936 x=6
+win=6378 visit=13792 rate=0.462442 x=7
+win=5659 visit=12339 rate=0.458627 x=8
+win=7684 visit=16425 rate=0.467823 x=9
+win=53398 visit=105915 rate=0.504159 x=10
+win=47236 visit=93963 rate=0.502709 x=11
+win=63420 visit=125320 rate=0.506064 x=12
+win=1333 visit=3372 rate=0.395314 x=13
+win=50660 visit=100607 rate=0.503543 x=17
+win=42323 visit=84422 rate=0.501327 x=18
+win=1531 visit=3799 rate=0.403001 x=19
+win=52279 visit=103745 rate=0.503918 x=23
+win=38215 visit=76432 rate=0.499987 x=24
+win=15302 visit=31580 rate=0.484547 x=25
+win=56720 visit=112353 rate=0.504837 x=27
+win=45467 visit=90529 rate=0.502237 x=28
+win=43176 visit=86079 rate=0.501586 x=29
+win=16553 visit=34048 rate=0.486167 x=30
+win=51814 visit=102846 rate=0.503802 x=32
+win=45197 visit=90004 rate=0.502167 x=33
+win=72920 visit=143685 rate=0.507499 x=34
+win=4733 visit=10456 rate=0.452659 x=36
+win=4450 visit=9877 rate=0.450542 x=42
+win=44356 visit=88372 rate=0.501924 x=47
+win=13047 visit=27117 rate=0.481137 x=48
+win=47025 visit=93553 rate=0.502656 x=53
+win=50448 visit=100195 rate=0.503498 x=54
+win=56694 visit=112300 rate=0.504844 x=55
+win=50533 visit=100359 rate=0.503522 x=56
+win=52869 visit=104890 rate=0.504042 x=57
+win=51913 visit=103035 rate=0.503839 x=58
+final win=72920 visit=143685 rate=0.507499 x=34
+final headvisit=2386265,cnt=33
+
+
+win=5801 visit=12701 rate=0.456736 x=2
+win=63532 visit=126212 rate=0.503375 x=5
+win=64955 visit=128981 rate=0.503601 x=6
+win=1945 visit=4711 rate=0.412864 x=7
+win=63956 visit=127040 rate=0.503432 x=11
+win=79287 visit=156818 rate=0.505599 x=12
+win=816 visit=2251 rate=0.362506 x=13
+win=60839 visit=120975 rate=0.502906 x=17
+win=72468 visit=143580 rate=0.504722 x=18
+win=1602 visit=3980 rate=0.402513 x=19
+win=86747 visit=171288 rate=0.506439 x=23
+win=9995 visit=21171 rate=0.472108 x=24
+win=8791 visit=18733 rate=0.469279 x=25
+win=9025 visit=19222 rate=0.469514 x=26
+win=45136 visit=90374 rate=0.499436 x=27
+win=53884 visit=107434 rate=0.501554 x=28
+win=68971 visit=136788 rate=0.504218 x=29
+win=21003 visit=43045 rate=0.487931 x=30
+win=73712 visit=145995 rate=0.504894 x=32
+win=75641 visit=149743 rate=0.505139 x=33
+win=5406 visit=11896 rate=0.454438 x=36
+win=4742 visit=10537 rate=0.450033 x=42
+win=67828 visit=134567 rate=0.504046 x=47
+win=67467 visit=133863 rate=0.504000 x=53
+win=62321 visit=123858 rate=0.503165 x=54
+win=78286 visit=154875 rate=0.505479 x=55
+win=76333 visit=151084 rate=0.505235 x=56
+win=46502 visit=93041 rate=0.499801 x=57
+win=64027 visit=127176 rate=0.503452 x=58
+final win=86747 visit=171288 rate=0.506439 x=23
+final headvisit=2671939,cnt=29
+
+
+win=9286 visit=19914 rate=0.466305 x=2
+win=86765 visit=172679 rate=0.502464 x=5
+win=82269 visit=163890 rate=0.501977 x=6
+win=2354 visit=5630 rate=0.418117 x=7
+win=106540 visit=211285 rate=0.504248 x=11
+win=131479 visit=259883 rate=0.505916 x=12
+win=1186 visit=3103 rate=0.382211 x=13
+win=94092 visit=186992 rate=0.503187 x=17
+win=164718 visit=324573 rate=0.507491 x=18
+win=1502 visit=3797 rate=0.395575 x=19
+win=8651 visit=18628 rate=0.464408 x=24
+win=9403 visit=20151 rate=0.466627 x=25
+win=8698 visit=18724 rate=0.464537 x=26
+win=21416 visit=44217 rate=0.484339 x=27
+win=26814 visit=54936 rate=0.488095 x=29
+win=25200 visit=51734 rate=0.487107 x=30
+win=134636 visit=266039 rate=0.506076 x=32
+win=90105 visit=179204 rate=0.502807 x=33
+win=7935 visit=17171 rate=0.462116 x=36
+win=7842 visit=16981 rate=0.461810 x=42
+win=86970 visit=173079 rate=0.502487 x=47
+win=71775 visit=143363 rate=0.500652 x=54
+win=133619 visit=264058 rate=0.506021 x=55
+win=122776 visit=242936 rate=0.505384 x=56
+win=34719 visit=70569 rate=0.491987 x=57
+final win=164718 visit=324573 rate=0.507491 x=18
+final headvisit=2933536,cnt=25
+
+
+win=13543 visit=28126 rate=0.481512 x=2
+win=17820 visit=36576 rate=0.487205 x=5
+win=323637 visit=624951 rate=0.517860 x=6
+win=3949 visit=8864 rate=0.445510 x=7
+win=25512 visit=51683 rate=0.493625 x=11
+win=97916 visit=191995 rate=0.509992 x=12
+win=2804 visit=6497 rate=0.431584 x=13
+win=484287 visit=931984 rate=0.519630 x=17
+win=915 visit=2465 rate=0.371197 x=19
+win=8777 visit=18635 rate=0.470995 x=24
+win=10256 visit=21592 rate=0.474991 x=25
+win=14732 visit=30479 rate=0.483349 x=26
+win=24965 visit=50611 rate=0.493272 x=27
+win=37963 visit=75989 rate=0.499585 x=29
+win=20059 visit=40985 rate=0.489423 x=30
+win=281015 visit=536820 rate=0.523481 x=32
+win=15620 visit=32236 rate=0.484551 x=36
+win=13121 visit=27291 rate=0.480781 x=42
+win=314120 visit=606747 rate=0.517712 x=47
+win=52116 visit=103486 rate=0.503604 x=57
+final win=281015 visit=536820 rate=0.523481 x=32
+final headvisit=3428012,cnt=20
+
+
+win=8028 visit=17953 rate=0.447168 x=2
+win=24448 visit=51907 rate=0.470996 x=5
+win=2432 visit=6007 rate=0.404861 x=7
+win=96294 visit=197490 rate=0.487589 x=11
+win=417646 visit=841041 rate=0.496582 x=12
+win=676 visit=2032 rate=0.332677 x=13
+win=245625 visit=497177 rate=0.494039 x=17
+win=276 visit=1044 rate=0.264368 x=19
+win=19870 visit=42509 rate=0.467430 x=24
+win=19743 visit=42246 rate=0.467334 x=25
+win=20070 visit=42921 rate=0.467603 x=26
+win=195061 visit=395888 rate=0.492718 x=27
+win=843361 visit=1607647 rate=0.524593 x=29
+win=12135 visit=26530 rate=0.457407 x=36
+win=10132 visit=22359 rate=0.453151 x=42
+win=125358 visit=255980 rate=0.489718 x=47
+win=207246 visit=420310 rate=0.493079 x=57
+final win=843361 visit=1607647 rate=0.524593 x=29
+final headvisit=4471041,cnt=17
+
+
+win=55534 visit=509374 rate=0.109024 x=2
+win=106454 visit=950234 rate=0.112029 x=5
+win=82671 visit=745007 rate=0.110967 x=7
+win=64879 visit=590746 rate=0.109826 x=11
+win=49294 visit=454864 rate=0.108371 x=12
+win=160800 visit=1416540 rate=0.113516 x=13
+win=54286 visit=498483 rate=0.108902 x=17
+win=135462 visit=1199494 rate=0.112933 x=19
+win=54909 visit=503920 rate=0.108964 x=27
+win=59873 visit=547190 rate=0.109419 x=36
+win=58286 visit=533366 rate=0.109280 x=42
+win=77052 visit=696368 rate=0.110648 x=47
+win=55233 visit=506747 rate=0.108995 x=53
+final win=160800 visit=1416540 rate=0.113516 x=13
+final headvisit=9152333,cnt=13
+
+
+win=8297 visit=16370 rate=0.506842 x=1
+win=6665 visit=13549 rate=0.491918 x=2
+win=8311 visit=16747 rate=0.496268 x=3
+win=7337 visit=14600 rate=0.502534 x=4
+win=8284 visit=16539 rate=0.500877 x=5
+win=8291 visit=16743 rate=0.495192 x=6
+win=10871 visit=22016 rate=0.493777 x=7
+win=24875 visit=49582 rate=0.501694 x=8
+win=20900 visit=41661 rate=0.501668 x=9
+win=11780 visit=23408 rate=0.503247 x=10
+win=8255 visit=16488 rate=0.500667 x=11
+win=10451 visit=20743 rate=0.503833 x=12
+win=14863 visit=29494 rate=0.503933 x=13
+win=27312 visit=54303 rate=0.502956 x=14
+win=25421 visit=50815 rate=0.500266 x=15
+win=14393 visit=28778 rate=0.500139 x=16
+win=9163 visit=18257 rate=0.501890 x=17
+win=7656 visit=15481 rate=0.494542 x=18
+win=12803 visit=25642 rate=0.499298 x=19
+win=22422 visit=44733 rate=0.501241 x=20
+win=20506 visit=41166 rate=0.498130 x=21
+win=13239 visit=26542 rate=0.498794 x=22
+win=8413 visit=16860 rate=0.498992 x=23
+win=8914 visit=17762 rate=0.501858 x=24
+win=10491 visit=20828 rate=0.503697 x=25
+win=11429 visit=23037 rate=0.496115 x=26
+win=14577 visit=28942 rate=0.503662 x=27
+win=10269 visit=20513 rate=0.500609 x=28
+win=8460 visit=16936 rate=0.499528 x=29
+win=8606 visit=17188 rate=0.500698 x=30
+win=9652 visit=19160 rate=0.503758 x=31
+win=8989 visit=18147 rate=0.495344 x=32
+win=11243 visit=22524 rate=0.499156 x=33
+win=8802 visit=17726 rate=0.496559 x=34
+win=7281 visit=14459 rate=0.503562 x=35
+win=7728 visit=15515 rate=0.498099 x=36
+win=21893 visit=43487 rate=0.503438 x=38
+win=18291 visit=36649 rate=0.499086 x=39
+win=14023 visit=27831 rate=0.503863 x=40
+win=8277 visit=16539 rate=0.500453 x=41
+win=9281 visit=18490 rate=0.501947 x=42
+win=9168 visit=18518 rate=0.495086 x=43
+win=18733 visit=37173 rate=0.503941 x=44
+win=12989 visit=26414 rate=0.491747 x=45
+win=13264 visit=26318 rate=0.503990 x=46
+win=6806 visit=13618 rate=0.499780 x=47
+win=7678 visit=15338 rate=0.500587 x=48
+win=8705 visit=17343 rate=0.501932 x=49
+win=8252 visit=16783 rate=0.491688 x=50
+win=8209 visit=16652 rate=0.492974 x=51
+win=7203 visit=14514 rate=0.496279 x=52
+win=5393 visit=10787 rate=0.499954 x=53
+win=5374 visit=10773 rate=0.498840 x=54
+win=5205 visit=10404 rate=0.500288 x=55
+win=5888 visit=11641 rate=0.505798 x=56
+win=5304 visit=10498 rate=0.505239 x=57
+win=5157 visit=10183 rate=0.506432 x=58
+win=4687 visit=9209 rate=0.508959 x=59
+final win=4687 visit=9209 rate=0.508959 x=59
+final headvisit=1292416,cnt=58
+
+
+win=7595 visit=15183 rate=0.500231 x=1
+win=7734 visit=15563 rate=0.496948 x=2
+win=11115 visit=22053 rate=0.504013 x=3
+win=7582 visit=15136 rate=0.500925 x=4
+win=9665 visit=19203 rate=0.503307 x=5
+win=9444 visit=19014 rate=0.496687 x=6
+win=5178 visit=11374 rate=0.455249 x=7
+win=21367 visit=42802 rate=0.499206 x=9
+win=12933 visit=25623 rate=0.504742 x=10
+win=8483 visit=17009 rate=0.498736 x=11
+win=11793 visit=23409 rate=0.503781 x=12
+win=16660 visit=33412 rate=0.498623 x=13
+win=31802 visit=63408 rate=0.501546 x=14
+win=27835 visit=55865 rate=0.498255 x=15
+win=16255 visit=32468 rate=0.500647 x=16
+win=9843 visit=19648 rate=0.500967 x=17
+win=8664 visit=17493 rate=0.495284 x=18
+win=12881 visit=25992 rate=0.495576 x=19
+win=25072 visit=49972 rate=0.501721 x=20
+win=24306 visit=48786 rate=0.498217 x=21
+win=13576 visit=27421 rate=0.495095 x=22
+win=8359 visit=16938 rate=0.493506 x=23
+win=11102 visit=21913 rate=0.506640 x=24
+win=11757 visit=23303 rate=0.504527 x=25
+win=13580 visit=27271 rate=0.497965 x=26
+win=15416 visit=30813 rate=0.500308 x=27
+win=11938 visit=23862 rate=0.500293 x=28
+win=9847 visit=19665 rate=0.500737 x=29
+win=7883 visit=16005 rate=0.492534 x=30
+win=9998 visit=19848 rate=0.503728 x=31
+win=13181 visit=26449 rate=0.498355 x=32
+win=12004 visit=24065 rate=0.498816 x=33
+win=9726 visit=19548 rate=0.497545 x=34
+win=7858 visit=15590 rate=0.504041 x=35
+win=8043 visit=16167 rate=0.497495 x=36
+win=22306 visit=44488 rate=0.501394 x=39
+win=12972 visit=26103 rate=0.496954 x=40
+win=9830 visit=19532 rate=0.503277 x=41
+win=8767 visit=17665 rate=0.496292 x=42
+win=10278 visit=20567 rate=0.499733 x=43
+win=18535 visit=37137 rate=0.499098 x=44
+win=16483 visit=33166 rate=0.496985 x=45
+win=14007 visit=27786 rate=0.504103 x=46
+win=6709 visit=13543 rate=0.495385 x=47
+win=8031 visit=16049 rate=0.500405 x=48
+win=8486 visit=17008 rate=0.498942 x=49
+win=9578 visit=19376 rate=0.494323 x=50
+win=10670 visit=21279 rate=0.501433 x=51
+win=7515 visit=15058 rate=0.499070 x=52
+win=5888 visit=11779 rate=0.499873 x=53
+win=5884 visit=11736 rate=0.501363 x=54
+win=4799 visit=9721 rate=0.493673 x=55
+win=6143 visit=12146 rate=0.505763 x=56
+win=4513 visit=9124 rate=0.494630 x=57
+win=3845 visit=7625 rate=0.504262 x=58
+final win=11102 visit=21913 rate=0.506640 x=24
+final headvisit=1293159,cnt=55
+
+
+win=7937 visit=15905 rate=0.499025 x=1
+win=9973 visit=19753 rate=0.504885 x=2
+win=10812 visit=21644 rate=0.499538 x=3
+win=7713 visit=15459 rate=0.498933 x=4
+win=10308 visit=20523 rate=0.502266 x=5
+win=11074 visit=22238 rate=0.497976 x=6
+win=5099 visit=11288 rate=0.451719 x=7
+win=30278 visit=59911 rate=0.505383 x=9
+win=12101 visit=24262 rate=0.498763 x=10
+win=9639 visit=19260 rate=0.500467 x=11
+win=13701 visit=27243 rate=0.502918 x=12
+win=6771 visit=14851 rate=0.455929 x=13
+win=38933 visit=77449 rate=0.502692 x=15
+win=17971 visit=35898 rate=0.500613 x=16
+win=9441 visit=19018 rate=0.496424 x=17
+win=11328 visit=22657 rate=0.499978 x=18
+win=19096 visit=38102 rate=0.501181 x=19
+win=31147 visit=61958 rate=0.502712 x=20
+win=29367 visit=58740 rate=0.499949 x=21
+win=16598 visit=33283 rate=0.498693 x=22
+win=9723 visit=19546 rate=0.497442 x=23
+win=9685 visit=19749 rate=0.490405 x=25
+win=15052 visit=30312 rate=0.496569 x=26
+win=16288 visit=32727 rate=0.497693 x=27
+win=12090 visit=24283 rate=0.497879 x=28
+win=10372 visit=20759 rate=0.499639 x=29
+win=10717 visit=21408 rate=0.500607 x=30
+win=8932 visit=17980 rate=0.496774 x=31
+win=14954 visit=29931 rate=0.499616 x=32
+win=19115 visit=38219 rate=0.500144 x=33
+win=15541 visit=30691 rate=0.506370 x=34
+win=10272 visit=20662 rate=0.497145 x=35
+win=10124 visit=20087 rate=0.504008 x=36
+win=16983 visit=33740 rate=0.503349 x=40
+win=9687 visit=19470 rate=0.497535 x=41
+win=11989 visit=23746 rate=0.504885 x=42
+win=11072 visit=22161 rate=0.499616 x=43
+win=22202 visit=44188 rate=0.502444 x=44
+win=22911 visit=45650 rate=0.501884 x=45
+win=13434 visit=26829 rate=0.500727 x=46
+win=7991 visit=16000 rate=0.499437 x=47
+win=9600 visit=19029 rate=0.504493 x=48
+win=9435 visit=18838 rate=0.500849 x=49
+win=13145 visit=26120 rate=0.503254 x=50
+win=9863 visit=19925 rate=0.495006 x=51
+win=7617 visit=15307 rate=0.497615 x=52
+win=5529 visit=11179 rate=0.494588 x=53
+win=5744 visit=11540 rate=0.497747 x=54
+win=5244 visit=10576 rate=0.495840 x=55
+win=5772 visit=11538 rate=0.500260 x=56
+win=4780 visit=9655 rate=0.495080 x=57
+win=3499 visit=7040 rate=0.497017 x=58
+final win=15541 visit=30691 rate=0.506370 x=34
+final headvisit=1338327,cnt=52
+
+
+win=9684 visit=19307 rate=0.501580 x=1
+win=11103 visit=21991 rate=0.504888 x=2
+win=14921 visit=29488 rate=0.506002 x=3
+win=9095 visit=18178 rate=0.500330 x=4
+win=10380 visit=20878 rate=0.497174 x=5
+win=14378 visit=28714 rate=0.500731 x=6
+win=6521 visit=14253 rate=0.457518 x=7
+win=29766 visit=59660 rate=0.498927 x=9
+win=14297 visit=28672 rate=0.498640 x=10
+win=9666 visit=19486 rate=0.496048 x=11
+win=19257 visit=38267 rate=0.503227 x=12
+win=7932 visit=17404 rate=0.455757 x=13
+win=45124 visit=90207 rate=0.500227 x=15
+win=24194 visit=48156 rate=0.502409 x=16
+win=10622 visit=21412 rate=0.496077 x=17
+win=24595 visit=48307 rate=0.509139 x=18
+win=8265 visit=18005 rate=0.459039 x=19
+win=45251 visit=90064 rate=0.502432 x=21
+win=20749 visit=41573 rate=0.499098 x=22
+win=12115 visit=24186 rate=0.500910 x=23
+win=3873 visit=8426 rate=0.459649 x=25
+win=15296 visit=30347 rate=0.504037 x=26
+win=20068 visit=40150 rate=0.499826 x=27
+win=16705 visit=33161 rate=0.503754 x=28
+win=12212 visit=24283 rate=0.502903 x=29
+win=13127 visit=26082 rate=0.503297 x=30
+win=11415 visit=22781 rate=0.501075 x=31
+win=19027 visit=38077 rate=0.499698 x=32
+win=30362 visit=60084 rate=0.505326 x=33
+win=10332 visit=20612 rate=0.501261 x=36
+win=10694 visit=21146 rate=0.505722 x=41
+win=9441 visit=19199 rate=0.491744 x=42
+win=13734 visit=27341 rate=0.502323 x=43
+win=25455 visit=50793 rate=0.501152 x=44
+win=26097 visit=52170 rate=0.500230 x=45
+win=23660 visit=46916 rate=0.504306 x=46
+win=8311 visit=16702 rate=0.497605 x=47
+win=10582 visit=20989 rate=0.504169 x=48
+win=12069 visit=23880 rate=0.505402 x=49
+win=17138 visit=33765 rate=0.507567 x=50
+win=12183 visit=24392 rate=0.499467 x=51
+win=7327 visit=14913 rate=0.491316 x=52
+win=6880 visit=13737 rate=0.500837 x=53
+win=6031 visit=12141 rate=0.496747 x=54
+win=6645 visit=13206 rate=0.503180 x=55
+win=6002 visit=12034 rate=0.498754 x=56
+win=6119 visit=12141 rate=0.503995 x=57
+win=3849 visit=7712 rate=0.499092 x=58
+final win=24595 visit=48307 rate=0.509139 x=18
+final headvisit=1425388,cnt=48
+
+
+win=9277 visit=18513 rate=0.501107 x=1
+win=9583 visit=19062 rate=0.502728 x=2
+win=13196 visit=26020 rate=0.507148 x=3
+win=10841 visit=21195 rate=0.511489 x=4
+win=14575 visit=28592 rate=0.509758 x=5
+win=16733 visit=33303 rate=0.502447 x=6
+win=8016 visit=17365 rate=0.461618 x=7
+win=49273 visit=97749 rate=0.504077 x=9
+win=24111 visit=47796 rate=0.504456 x=10
+win=12820 visit=25434 rate=0.504050 x=11
+win=28072 visit=55856 rate=0.502578 x=12
+win=12936 visit=27563 rate=0.469325 x=13
+win=42159 visit=84876 rate=0.496713 x=15
+win=23864 visit=47722 rate=0.500063 x=16
+win=14144 visit=28054 rate=0.504171 x=17
+win=4607 visit=11050 rate=0.416923 x=19
+win=4784 visit=11413 rate=0.419171 x=20
+win=51614 visit=102974 rate=0.501233 x=21
+win=25640 visit=50840 rate=0.504327 x=22
+win=12418 visit=24775 rate=0.501231 x=23
+win=3644 visit=7981 rate=0.456584 x=25
+win=16776 visit=33144 rate=0.506155 x=26
+win=22966 visit=45715 rate=0.502373 x=27
+win=18015 visit=35620 rate=0.505755 x=28
+win=13699 visit=27045 rate=0.506526 x=29
+win=15708 visit=30867 rate=0.508893 x=30
+win=12764 visit=25285 rate=0.504805 x=31
+win=28812 visit=57389 rate=0.502047 x=32
+win=4465 visit=10662 rate=0.418777 x=33
+win=11374 visit=22493 rate=0.505668 x=36
+win=9408 visit=18813 rate=0.500080 x=41
+win=13463 visit=26599 rate=0.506147 x=42
+win=14219 visit=28344 rate=0.501658 x=43
+win=27254 visit=54317 rate=0.501758 x=44
+win=30829 visit=60963 rate=0.505700 x=45
+win=29411 visit=58280 rate=0.504650 x=46
+win=8733 visit=17473 rate=0.499800 x=47
+win=9127 visit=17952 rate=0.508411 x=48
+win=16487 visit=32946 rate=0.500425 x=50
+win=16078 visit=31639 rate=0.508170 x=51
+win=9749 visit=19440 rate=0.501492 x=52
+win=6515 visit=13073 rate=0.498355 x=53
+win=8118 visit=15970 rate=0.508328 x=54
+win=5414 visit=10875 rate=0.497839 x=55
+win=5291 visit=10712 rate=0.493932 x=56
+win=5436 visit=10877 rate=0.499770 x=57
+win=3742 visit=7516 rate=0.497871 x=58
+final win=10841 visit=21195 rate=0.511489 x=4
+final headvisit=1512142,cnt=47
+
+
+win=10372 visit=20685 rate=0.501426 x=1
+win=11953 visit=23643 rate=0.505562 x=2
+win=2600 visit=5607 rate=0.463706 x=3
+win=14744 visit=29307 rate=0.503088 x=5
+win=19201 visit=38091 rate=0.504082 x=6
+win=7950 visit=17408 rate=0.456687 x=7
+win=14258 visit=30537 rate=0.466909 x=9
+win=13790 visit=27397 rate=0.503340 x=11
+win=37012 visit=73064 rate=0.506570 x=12
+win=13992 visit=30075 rate=0.465237 x=13
+win=88862 visit=174809 rate=0.508338 x=15
+win=39767 visit=78985 rate=0.503475 x=16
+win=18078 visit=35720 rate=0.506103 x=17
+win=3776 visit=9405 rate=0.401489 x=19
+win=3844 visit=9528 rate=0.403442 x=20
+win=81597 visit=160302 rate=0.509020 x=21
+win=26812 visit=53540 rate=0.500784 x=22
+win=15527 visit=30837 rate=0.503519 x=23
+win=3771 visit=8281 rate=0.455380 x=25
+win=18016 visit=35678 rate=0.504961 x=26
+win=26679 visit=53163 rate=0.501834 x=27
+win=22235 visit=43765 rate=0.508054 x=28
+win=13361 visit=26598 rate=0.502331 x=29
+win=15558 visit=30636 rate=0.507834 x=30
+win=13672 visit=26922 rate=0.507837 x=31
+win=38437 visit=76135 rate=0.504853 x=32
+win=3892 visit=9523 rate=0.408695 x=33
+win=12060 visit=23698 rate=0.508904 x=36
+win=12216 visit=24095 rate=0.506993 x=41
+win=11520 visit=23037 rate=0.500065 x=42
+win=12267 visit=24257 rate=0.505710 x=43
+win=34137 visit=67769 rate=0.503726 x=44
+win=23551 visit=46935 rate=0.501779 x=45
+win=31344 visit=62184 rate=0.504052 x=46
+win=10048 visit=19867 rate=0.505763 x=47
+win=20570 visit=40662 rate=0.505878 x=51
+win=12816 visit=25333 rate=0.505901 x=52
+win=8798 visit=17343 rate=0.507294 x=53
+win=8991 visit=17798 rate=0.505169 x=54
+win=5441 visit=10806 rate=0.503517 x=55
+win=7217 visit=14120 rate=0.511119 x=56
+win=6837 visit=13436 rate=0.508857 x=57
+win=4374 visit=8639 rate=0.506309 x=58
+final win=7217 visit=14120 rate=0.511119 x=56
+final headvisit=1599620,cnt=43
+
+
+win=12575 visit=24991 rate=0.503181 x=1
+win=13748 visit=27144 rate=0.506484 x=2
+win=2458 visit=5388 rate=0.456199 x=3
+win=22541 visit=44540 rate=0.506084 x=5
+win=26569 visit=52255 rate=0.508449 x=6
+win=11300 visit=24076 rate=0.469347 x=7
+win=12269 visit=26414 rate=0.464489 x=9
+win=14996 visit=29685 rate=0.505171 x=11
+win=44695 visit=88224 rate=0.506608 x=12
+win=15923 visit=34611 rate=0.460056 x=13
+win=17680 visit=38138 rate=0.463580 x=15
+win=26520 visit=52336 rate=0.506726 x=17
+win=5561 visit=13436 rate=0.413888 x=19
+win=5077 visit=12386 rate=0.409898 x=20
+win=124515 visit=242952 rate=0.512509 x=21
+win=55269 visit=108580 rate=0.509016 x=22
+win=22673 visit=44963 rate=0.504259 x=23
+win=3375 visit=7615 rate=0.443204 x=25
+win=23526 visit=46493 rate=0.506012 x=26
+win=36735 visit=72957 rate=0.503516 x=27
+win=26600 visit=52698 rate=0.504763 x=28
+win=17743 visit=35275 rate=0.502991 x=29
+win=20650 visit=40395 rate=0.511202 x=30
+win=15802 visit=30934 rate=0.510830 x=31
+win=51505 visit=101289 rate=0.508495 x=32
+win=4344 visit=10649 rate=0.407926 x=33
+win=15495 visit=30175 rate=0.513505 x=36
+win=13820 visit=27295 rate=0.506320 x=41
+win=15538 visit=30765 rate=0.505054 x=42
+win=11832 visit=23497 rate=0.503554 x=43
+win=44977 visit=88635 rate=0.507441 x=44
+win=29265 visit=58310 rate=0.501886 x=45
+win=29689 visit=58969 rate=0.503468 x=46
+win=9248 visit=18427 rate=0.501872 x=47
+win=15025 visit=29909 rate=0.502357 x=52
+win=10670 visit=20986 rate=0.508434 x=53
+win=12501 visit=24553 rate=0.509143 x=54
+win=5823 visit=11404 rate=0.510610 x=55
+win=6853 visit=13427 rate=0.510390 x=57
+win=4305 visit=8527 rate=0.504867 x=58
+final win=15495 visit=30175 rate=0.513505 x=36
+final headvisit=1713303,cnt=40
+
+
+win=6725 visit=14314 rate=0.469820 x=1
+win=3637 visit=7681 rate=0.473506 x=3
+win=35360 visit=68749 rate=0.514335 x=5
+win=41718 visit=81035 rate=0.514815 x=6
+win=14762 visit=31134 rate=0.474144 x=7
+win=22450 visit=46823 rate=0.479465 x=9
+win=19998 visit=38961 rate=0.513283 x=11
+win=71800 visit=139698 rate=0.513966 x=12
+win=32792 visit=69066 rate=0.474792 x=13
+win=25599 visit=54095 rate=0.473223 x=15
+win=38957 visit=76352 rate=0.510229 x=17
+win=7054 visit=16776 rate=0.420482 x=19
+win=6813 visit=16244 rate=0.419416 x=20
+win=35753 visit=75036 rate=0.476478 x=21
+win=34441 visit=67687 rate=0.508827 x=23
+win=5392 visit=11490 rate=0.469278 x=25
+win=28580 visit=55679 rate=0.513299 x=26
+win=40069 visit=78241 rate=0.512123 x=27
+win=33522 visit=65709 rate=0.510158 x=28
+win=28145 visit=54835 rate=0.513267 x=29
+win=35783 visit=68679 rate=0.521018 x=30
+win=28056 visit=53549 rate=0.523931 x=31
+win=79796 visit=155247 rate=0.513994 x=32
+win=6447 visit=15220 rate=0.423587 x=33
+win=18519 visit=35849 rate=0.516583 x=41
+win=26485 visit=51429 rate=0.514982 x=42
+win=15414 visit=30174 rate=0.510837 x=43
+win=60690 visit=118599 rate=0.511724 x=44
+win=35341 visit=68837 rate=0.513401 x=45
+win=47714 visit=93125 rate=0.512365 x=46
+win=10426 visit=20504 rate=0.508486 x=47
+win=15169 visit=29326 rate=0.517254 x=53
+win=15919 visit=30890 rate=0.515345 x=54
+win=5171 visit=10332 rate=0.500484 x=55
+win=5258 visit=10429 rate=0.504171 x=57
+win=3850 visit=7598 rate=0.506712 x=58
+final win=28056 visit=53549 rate=0.523931 x=31
+final headvisit=1869392,cnt=36
+
+
+win=1631 visit=3954 rate=0.412494 x=1
+win=1901 visit=4523 rate=0.420296 x=2
+win=7662 visit=16172 rate=0.473782 x=3
+win=51615 visit=101251 rate=0.509773 x=5
+win=54819 visit=107392 rate=0.510457 x=6
+win=10504 visit=21791 rate=0.482034 x=7
+win=11830 visit=24396 rate=0.484916 x=9
+win=49040 visit=96315 rate=0.509163 x=11
+win=50499 visit=99112 rate=0.509514 x=12
+win=6654 visit=14169 rate=0.469617 x=13
+win=9927 visit=20652 rate=0.480680 x=15
+win=41350 visit=81552 rate=0.507038 x=17
+win=1475 visit=3625 rate=0.406897 x=19
+win=1958 visit=4642 rate=0.421801 x=20
+win=12404 visit=25522 rate=0.486012 x=21
+win=40791 visit=80478 rate=0.506859 x=23
+win=11563 visit=23871 rate=0.484395 x=25
+win=40968 visit=80766 rate=0.507243 x=26
+win=11890 visit=24513 rate=0.485049 x=28
+win=41049 visit=80974 rate=0.506940 x=29
+win=2208 visit=5164 rate=0.427576 x=30
+win=54669 visit=107106 rate=0.510420 x=32
+win=1591 visit=3870 rate=0.411111 x=33
+win=47122 visit=92635 rate=0.508685 x=41
+win=49447 visit=97095 rate=0.509264 x=42
+win=48546 visit=95368 rate=0.509039 x=43
+win=50218 visit=98574 rate=0.509445 x=44
+win=39918 visit=78801 rate=0.506567 x=45
+win=44381 visit=87374 rate=0.507943 x=46
+win=40910 visit=80709 rate=0.506883 x=47
+win=51012 visit=100096 rate=0.509631 x=54
+win=48323 visit=94939 rate=0.508990 x=55
+win=39220 visit=77458 rate=0.506339 x=57
+win=33920 visit=67256 rate=0.504342 x=58
+final win=54819 visit=107392 rate=0.510457 x=6
+final headvisit=2002115,cnt=34
+
+
+win=4361 visit=9652 rate=0.451823 x=1
+win=3253 visit=7382 rate=0.440666 x=2
+win=14327 visit=29527 rate=0.485217 x=3
+win=64613 visit=127112 rate=0.508316 x=5
+win=4188 visit=9300 rate=0.450323 x=7
+win=6846 visit=14673 rate=0.466571 x=8
+win=13587 visit=28067 rate=0.484092 x=9
+win=52934 visit=104588 rate=0.506119 x=11
+win=24111 visit=48700 rate=0.495092 x=13
+win=13197 visit=27298 rate=0.483442 x=15
+win=53858 visit=106369 rate=0.506332 x=17
+win=2691 visit=6221 rate=0.432567 x=19
+win=4632 visit=10203 rate=0.453984 x=20
+win=13541 visit=27976 rate=0.484022 x=21
+win=67413 visit=132505 rate=0.508758 x=23
+win=16211 visit=33233 rate=0.487798 x=25
+win=53763 visit=106189 rate=0.506295 x=26
+win=17018 visit=34820 rate=0.488742 x=28
+win=61210 visit=120554 rate=0.507739 x=29
+win=4007 visit=8929 rate=0.448762 x=30
+win=3490 visit=7870 rate=0.443456 x=32
+win=4268 visit=9463 rate=0.451020 x=33
+win=55071 visit=108713 rate=0.506572 x=41
+win=62276 visit=122608 rate=0.507928 x=42
+win=70831 visit=139086 rate=0.509260 x=43
+win=66459 visit=130668 rate=0.508610 x=44
+win=46834 visit=92803 rate=0.504660 x=45
+win=62888 visit=123789 rate=0.508026 x=46
+win=53241 visit=105182 rate=0.506180 x=47
+win=55444 visit=109433 rate=0.506648 x=54
+win=50075 visit=99069 rate=0.505456 x=55
+win=59606 visit=117462 rate=0.507449 x=57
+win=62890 visit=123791 rate=0.508034 x=58
+final win=70831 visit=139086 rate=0.509260 x=43
+final headvisit=2283235,cnt=33
+
+
+win=18560 visit=38007 rate=0.488331 x=1
+win=17812 visit=36534 rate=0.487546 x=2
+win=27925 visit=56371 rate=0.495379 x=3
+win=55391 visit=109781 rate=0.504559 x=5
+win=638 visit=1833 rate=0.348063 x=7
+win=60497 visit=119670 rate=0.505532 x=11
+win=33228 visit=66724 rate=0.497992 x=13
+win=54071 visit=107223 rate=0.504285 x=15
+win=65071 visit=128519 rate=0.506314 x=17
+win=27721 visit=55972 rate=0.495265 x=19
+win=27867 visit=56258 rate=0.495343 x=20
+win=29408 visit=59268 rate=0.496187 x=21
+win=66929 visit=132112 rate=0.506608 x=23
+win=35678 visit=71497 rate=0.499014 x=25
+win=48324 visit=96079 rate=0.502961 x=26
+win=24332 visit=49341 rate=0.493140 x=28
+win=61006 visit=120640 rate=0.505686 x=29
+win=17192 visit=35314 rate=0.486832 x=30
+win=29767 visit=59971 rate=0.496357 x=33
+win=64894 visit=128177 rate=0.506284 x=41
+win=58584 visit=115965 rate=0.505187 x=42
+win=61460 visit=121533 rate=0.505706 x=45
+win=72018 visit=141950 rate=0.507348 x=46
+win=59128 visit=117020 rate=0.505281 x=47
+win=61436 visit=121488 rate=0.505696 x=54
+win=63577 visit=125629 rate=0.506069 x=55
+win=64713 visit=127826 rate=0.506259 x=57
+win=60602 visit=119872 rate=0.505556 x=58
+final win=72018 visit=141950 rate=0.507348 x=46
+final headvisit=2520574,cnt=28
+
+
+win=25765 visit=53824 rate=0.478690 x=1
+win=28838 visit=60022 rate=0.480457 x=2
+win=41385 visit=85237 rate=0.485529 x=3
+win=35185 visit=72795 rate=0.483344 x=5
+win=587 visit=1785 rate=0.328852 x=7
+win=84439 visit=171167 rate=0.493314 x=11
+win=46343 visit=95171 rate=0.486945 x=13
+win=65760 visit=133964 rate=0.490878 x=15
+win=99403 visit=200916 rate=0.494749 x=17
+win=55780 visit=114045 rate=0.489105 x=19
+win=58831 visit=120140 rate=0.489687 x=20
+win=22081 visit=46378 rate=0.476109 x=21
+win=117423 visit=236690 rate=0.496105 x=23
+win=45674 visit=93831 rate=0.486769 x=25
+win=49241 visit=100971 rate=0.487675 x=26
+win=51185 visit=104860 rate=0.488127 x=28
+win=92393 visit=186985 rate=0.494120 x=29
+win=28022 visit=58377 rate=0.480018 x=30
+win=48145 visit=98778 rate=0.487406 x=33
+win=110489 visit=222921 rate=0.495642 x=41
+win=57696 visit=117872 rate=0.489480 x=42
+win=79256 visit=160853 rate=0.492723 x=45
+win=107454 visit=216905 rate=0.495397 x=57
+win=110896 visit=223737 rate=0.495653 x=58
+final win=117423 visit=236690 rate=0.496105 x=23
+final headvisit=2978224,cnt=24
+
+
+win=14745 visit=31447 rate=0.468884 x=1
+win=16161 visit=34329 rate=0.470768 x=2
+win=16457 visit=34931 rate=0.471129 x=3
+win=17788 visit=37633 rate=0.472670 x=5
+win=821 visit=2335 rate=0.351606 x=7
+win=539193 visit=1066414 rate=0.505613 x=11
+win=38761 visit=79882 rate=0.485228 x=13
+win=63795 visit=129884 rate=0.491169 x=15
+win=512434 visit=1014699 rate=0.505011 x=17
+win=8850 visit=19370 rate=0.456892 x=19
+win=7244 visit=16050 rate=0.451340 x=20
+win=9668 visit=21055 rate=0.459178 x=21
+win=9232 visit=20157 rate=0.458005 x=22
+win=20372 visit=42869 rate=0.475215 x=25
+win=18825 visit=39736 rate=0.473752 x=26
+win=9080 visit=19844 rate=0.457569 x=28
+win=8917 visit=19508 rate=0.457095 x=29
+win=13207 visit=28310 rate=0.466514 x=30
+win=8035 visit=17686 rate=0.454314 x=33
+win=387256 visit=768573 rate=0.503864 x=41
+win=27706 visit=57675 rate=0.480381 x=42
+win=52262 visit=106885 rate=0.488955 x=45
+win=10815 visit=23413 rate=0.461923 x=53
+win=10665 visit=23107 rate=0.461548 x=57
+final win=539193 visit=1066414 rate=0.505613 x=11
+final headvisit=3655792,cnt=24
+
+
+win=74255 visit=197493 rate=0.375988 x=1
+win=92929 visit=245952 rate=0.377834 x=2
+win=173555 visit=454293 rate=0.382033 x=3
+win=2635 visit=8544 rate=0.308404 x=5
+win=58979 visit=157749 rate=0.373879 x=13
+win=47882 visit=128798 rate=0.371760 x=14
+win=28681 visit=78454 rate=0.365577 x=17
+win=56550 visit=151420 rate=0.373465 x=19
+win=58119 visit=155508 rate=0.373736 x=20
+win=471537 visit=1219734 rate=0.386590 x=25
+win=318782 visit=827868 rate=0.385064 x=26
+win=29922 visit=81720 rate=0.366153 x=28
+win=53382 visit=143157 rate=0.372891 x=29
+win=79859 visit=212049 rate=0.376606 x=30
+win=68228 visit=181824 rate=0.375242 x=33
+win=237836 visit=619826 rate=0.383714 x=41
+win=172744 visit=452202 rate=0.382006 x=42
+win=49574 visit=133219 rate=0.372124 x=45
+win=39738 visit=107492 rate=0.369683 x=53
+final win=471537 visit=1219734 rate=0.386590 x=25
+final headvisit=5557302,cnt=19
+
+
+win=2709 visit=672015 rate=0.004031 x=3
+win=15770 visit=1944959 rate=0.008108 x=5
+win=2611 visit=661073 rate=0.003950 x=13
+win=2650 visit=665438 rate=0.003982 x=14
+win=11982 visit=1596534 rate=0.007505 x=17
+win=2725 visit=673801 rate=0.004044 x=19
+win=2454 visit=643442 rate=0.003814 x=20
+win=2864 visit=689222 rate=0.004155 x=26
+win=2774 visit=679245 rate=0.004084 x=28
+win=3117 visit=717063 rate=0.004347 x=29
+win=2716 visit=672796 rate=0.004037 x=33
+win=2875 visit=690438 rate=0.004164 x=41
+win=2718 visit=673017 rate=0.004039 x=42
+win=2869 visit=689778 rate=0.004159 x=45
+win=2845 visit=687119 rate=0.004140 x=47
+win=2725 visit=673796 rate=0.004044 x=48
+win=3044 visit=709060 rate=0.004293 x=53
+final win=15770 visit=1944959 rate=0.008108 x=5
+final headvisit=13738796,cnt=17
+
+
+win=0 visit=2410160 rate=0.000000 x=13
+win=2167 visit=3176354 rate=0.000682 x=17
+win=489 visit=2591674 rate=0.000189 x=26
+win=488 visit=2591309 rate=0.000188 x=28
+win=583 visit=2625872 rate=0.000222 x=29
+win=597 visit=2630949 rate=0.000227 x=41
+win=603 visit=2633125 rate=0.000229 x=47
+win=588 visit=2627689 rate=0.000224 x=53
+final win=2167 visit=3176354 rate=0.000682 x=17
+final headvisit=21287132,cnt=8
+
+
+win=70 visit=3656848 rate=0.000019 x=13
+win=221 visit=3725783 rate=0.000059 x=26
+win=227 visit=3728510 rate=0.000061 x=28
+win=315 visit=3768383 rate=0.000084 x=29
+win=317 visit=3769286 rate=0.000084 x=41
+win=313 visit=3767482 rate=0.000083 x=47
+win=320 visit=3770644 rate=0.000085 x=53
+final win=320 visit=3770644 rate=0.000085 x=53
+final headvisit=26186936,cnt=7
+
+
+win=0 visit=39201215 rate=0.000000 x=13
+final win=0 visit=39201215 rate=0.000000 x=13
+final headvisit=39201215,cnt=1
+
+
+win=5365 visit=11073 rate=0.484512 x=0
+win=5928 visit=11836 rate=0.500845 x=1
+win=7256 visit=14515 rate=0.499897 x=2
+win=9882 visit=19523 rate=0.506172 x=3
+win=6387 visit=12821 rate=0.498167 x=4
+win=6954 visit=14008 rate=0.496431 x=5
+win=8009 visit=16071 rate=0.498351 x=6
+win=10953 visit=21973 rate=0.498475 x=7
+win=22731 visit=45290 rate=0.501899 x=8
+win=21352 visit=42349 rate=0.504191 x=9
+win=9369 visit=18841 rate=0.497267 x=10
+win=8862 visit=17526 rate=0.505649 x=11
+win=9562 visit=18994 rate=0.503422 x=12
+win=11077 visit=22319 rate=0.496304 x=13
+win=21139 visit=42446 rate=0.498021 x=14
+win=26144 visit=51974 rate=0.503021 x=15
+win=11990 visit=24172 rate=0.496028 x=16
+win=7891 visit=15844 rate=0.498043 x=17
+win=8194 visit=16390 rate=0.499939 x=18
+win=8918 visit=18265 rate=0.488256 x=19
+win=22569 visit=44803 rate=0.503739 x=20
+win=19014 visit=38203 rate=0.497710 x=21
+win=13260 visit=26442 rate=0.501475 x=22
+win=8655 visit=17226 rate=0.502438 x=23
+win=6942 visit=14059 rate=0.493776 x=24
+win=9794 visit=19476 rate=0.502875 x=25
+win=13047 visit=25933 rate=0.503104 x=26
+win=12408 visit=24785 rate=0.500625 x=27
+win=9182 visit=18433 rate=0.498128 x=28
+win=7770 visit=15593 rate=0.498301 x=29
+win=6611 visit=13149 rate=0.502776 x=30
+win=6325 visit=12747 rate=0.496195 x=31
+win=9774 visit=19489 rate=0.501514 x=32
+win=10407 visit=20861 rate=0.498873 x=33
+win=11565 visit=22718 rate=0.509068 x=34
+win=7295 visit=14452 rate=0.504774 x=35
+win=7803 visit=15529 rate=0.502479 x=36
+win=17345 visit=34726 rate=0.499482 x=38
+win=15292 visit=30844 rate=0.495785 x=39
+win=11362 visit=22817 rate=0.497962 x=40
+win=6941 visit=14018 rate=0.495149 x=41
+win=6579 visit=13424 rate=0.490092 x=42
+win=10296 visit=20542 rate=0.501217 x=43
+win=14557 visit=29213 rate=0.498306 x=44
+win=13390 visit=27080 rate=0.494461 x=45
+win=9686 visit=19582 rate=0.494638 x=46
+win=6406 visit=12838 rate=0.498987 x=47
+win=8026 visit=15903 rate=0.504685 x=48
+win=8690 visit=17246 rate=0.503885 x=49
+win=9592 visit=19207 rate=0.499401 x=50
+win=9567 visit=19064 rate=0.501836 x=51
+win=7499 visit=14981 rate=0.500567 x=52
+win=5372 visit=10707 rate=0.501728 x=53
+win=4743 visit=9592 rate=0.494475 x=54
+win=4945 visit=9909 rate=0.499041 x=55
+win=5588 visit=11049 rate=0.505747 x=56
+win=4868 visit=9676 rate=0.503100 x=57
+win=4251 visit=8528 rate=0.498476 x=58
+win=3606 visit=7271 rate=0.495943 x=59
+final win=11565 visit=22718 rate=0.509068 x=34
+final headvisit=1198345,cnt=59
+
+
+win=7336 visit=14856 rate=0.493807 x=0
+win=5516 visit=11173 rate=0.493690 x=1
+win=8063 visit=16073 rate=0.501649 x=2
+win=7111 visit=14576 rate=0.487857 x=3
+win=6397 visit=12930 rate=0.494741 x=4
+win=8599 visit=17142 rate=0.501633 x=5
+win=8907 visit=17903 rate=0.497514 x=6
+win=5860 visit=12599 rate=0.465116 x=7
+win=22777 visit=45314 rate=0.502648 x=9
+win=10906 visit=21850 rate=0.499130 x=10
+win=8348 visit=16705 rate=0.499731 x=11
+win=10939 visit=21802 rate=0.501743 x=12
+win=14422 visit=29088 rate=0.495806 x=13
+win=30411 visit=60778 rate=0.500362 x=14
+win=32501 visit=64587 rate=0.503213 x=15
+win=14860 visit=29772 rate=0.499127 x=16
+win=8767 visit=17585 rate=0.498550 x=17
+win=10489 visit=21030 rate=0.498764 x=18
+win=14810 visit=29557 rate=0.501066 x=19
+win=22886 visit=45726 rate=0.500503 x=20
+win=21215 visit=42770 rate=0.496025 x=21
+win=13851 visit=27796 rate=0.498309 x=22
+win=8445 visit=16966 rate=0.497760 x=23
+win=7972 visit=15954 rate=0.499687 x=24
+win=8173 visit=16469 rate=0.496266 x=25
+win=10032 visit=20434 rate=0.490946 x=26
+win=12871 visit=25848 rate=0.497950 x=27
+win=11077 visit=22094 rate=0.501358 x=28
+win=7831 visit=15817 rate=0.495100 x=29
+win=6582 visit=13233 rate=0.497393 x=30
+win=7567 visit=15111 rate=0.500761 x=31
+win=11958 visit=24054 rate=0.497131 x=32
+win=12277 visit=24537 rate=0.500346 x=33
+win=5885 visit=11833 rate=0.497338 x=35
+win=6998 visit=14155 rate=0.494384 x=36
+win=21144 visit=42135 rate=0.501816 x=39
+win=13097 visit=26398 rate=0.496136 x=40
+win=7787 visit=15676 rate=0.496747 x=41
+win=9730 visit=19362 rate=0.502531 x=42
+win=8655 visit=17581 rate=0.492293 x=43
+win=19724 visit=39291 rate=0.501998 x=44
+win=14668 visit=29658 rate=0.494571 x=45
+win=10654 visit=21600 rate=0.493241 x=46
+win=7591 visit=15098 rate=0.502782 x=47
+win=8423 visit=16742 rate=0.503106 x=48
+win=9065 visit=18043 rate=0.502411 x=49
+win=9773 visit=19693 rate=0.496268 x=50
+win=9226 visit=18555 rate=0.497224 x=51
+win=6349 visit=12961 rate=0.489854 x=52
+win=4083 visit=8427 rate=0.484514 x=53
+win=5223 visit=10543 rate=0.495400 x=54
+win=5403 visit=10801 rate=0.500231 x=55
+win=4068 visit=8366 rate=0.486254 x=56
+win=3761 visit=7740 rate=0.485917 x=57
+win=4647 visit=9300 rate=0.499677 x=58
+win=4263 visit=8489 rate=0.502179 x=59
+final win=32501 visit=64587 rate=0.503213 x=15
+final headvisit=1204576,cnt=56
+
+
+win=8574 visit=17325 rate=0.494892 x=0
+win=6515 visit=13130 rate=0.496192 x=1
+win=9310 visit=18526 rate=0.502537 x=2
+win=11852 visit=23653 rate=0.501078 x=3
+win=7996 visit=16015 rate=0.499282 x=4
+win=8947 visit=17986 rate=0.497442 x=5
+win=12240 visit=24425 rate=0.501126 x=6
+win=5639 visit=12350 rate=0.456599 x=7
+win=34447 visit=68972 rate=0.499435 x=9
+win=13480 visit=26843 rate=0.502179 x=10
+win=10174 visit=20280 rate=0.501677 x=11
+win=15056 visit=30031 rate=0.501349 x=12
+win=9422 visit=20395 rate=0.461976 x=13
+win=15896 visit=31778 rate=0.500220 x=16
+win=8548 visit=17366 rate=0.492226 x=17
+win=14604 visit=28911 rate=0.505136 x=18
+win=20345 visit=40813 rate=0.498493 x=19
+win=28530 visit=57047 rate=0.500114 x=20
+win=40057 visit=80068 rate=0.500287 x=21
+win=18241 visit=36294 rate=0.502590 x=22
+win=8025 visit=16361 rate=0.490496 x=23
+win=9450 visit=18879 rate=0.500556 x=24
+win=10502 visit=21049 rate=0.498931 x=25
+win=13245 visit=26689 rate=0.496272 x=26
+win=14710 visit=29720 rate=0.494953 x=27
+win=10172 visit=20603 rate=0.493715 x=28
+win=10123 visit=20220 rate=0.500643 x=29
+win=7838 visit=15703 rate=0.499140 x=30
+win=7965 visit=16029 rate=0.496912 x=31
+win=13857 visit=27960 rate=0.495601 x=32
+win=21812 visit=43433 rate=0.502199 x=33
+win=6988 visit=13985 rate=0.499678 x=35
+win=9271 visit=18508 rate=0.500919 x=36
+win=18697 visit=37357 rate=0.500495 x=40
+win=8677 visit=17521 rate=0.495234 x=41
+win=9408 visit=18993 rate=0.495340 x=42
+win=11663 visit=23438 rate=0.497611 x=43
+win=25551 visit=50853 rate=0.502448 x=44
+win=24361 visit=48685 rate=0.500380 x=45
+win=15051 visit=29975 rate=0.502118 x=46
+win=6965 visit=13960 rate=0.498926 x=47
+win=8326 visit=16679 rate=0.499191 x=48
+win=7623 visit=15464 rate=0.492951 x=49
+win=21882 visit=43954 rate=0.497839 x=50
+win=12655 visit=25294 rate=0.500316 x=51
+win=8077 visit=16295 rate=0.495674 x=52
+win=5139 visit=10437 rate=0.492383 x=53
+win=5935 visit=11933 rate=0.497360 x=54
+win=4760 visit=9723 rate=0.489561 x=55
+win=4400 visit=9078 rate=0.484688 x=56
+win=4885 visit=9854 rate=0.495738 x=57
+win=5109 visit=10182 rate=0.501768 x=58
+win=3620 visit=7396 rate=0.489454 x=59
+final win=14604 visit=28911 rate=0.505136 x=18
+final headvisit=1318418,cnt=53
+
+
+win=11402 visit=22627 rate=0.503911 x=0
+win=6847 visit=13769 rate=0.497276 x=1
+win=8054 visit=16223 rate=0.496456 x=2
+win=12276 visit=24464 rate=0.501799 x=3
+win=8559 visit=17044 rate=0.502171 x=4
+win=10583 visit=21009 rate=0.503736 x=5
+win=17011 visit=33561 rate=0.506868 x=6
+win=6889 visit=14974 rate=0.460064 x=7
+win=37265 visit=74452 rate=0.500524 x=9
+win=14017 visit=27946 rate=0.501574 x=10
+win=10962 visit=21753 rate=0.503930 x=11
+win=28635 visit=57099 rate=0.501497 x=12
+win=11400 visit=24539 rate=0.464567 x=13
+win=21510 visit=42385 rate=0.507491 x=16
+win=11988 visit=23769 rate=0.504354 x=17
+win=4923 visit=11619 rate=0.423703 x=19
+win=4160 visit=10015 rate=0.415377 x=20
+win=57719 visit=115389 rate=0.500212 x=21
+win=20046 visit=39807 rate=0.503580 x=22
+win=11374 visit=22585 rate=0.503609 x=23
+win=9194 visit=18269 rate=0.503257 x=24
+win=8411 visit=16868 rate=0.498636 x=25
+win=14808 visit=29278 rate=0.505772 x=26
+win=19341 visit=38485 rate=0.502559 x=27
+win=14840 visit=29306 rate=0.506381 x=28
+win=10953 visit=21729 rate=0.504073 x=29
+win=8793 visit=17483 rate=0.502946 x=30
+win=11459 visit=22605 rate=0.506923 x=31
+win=32739 visit=64983 rate=0.503809 x=32
+win=4334 visit=10261 rate=0.422376 x=33
+win=5869 visit=11801 rate=0.497331 x=35
+win=9294 visit=18558 rate=0.500808 x=36
+win=10086 visit=19946 rate=0.505665 x=41
+win=10671 visit=21376 rate=0.499205 x=42
+win=16650 visit=32928 rate=0.505649 x=43
+win=33848 visit=67333 rate=0.502696 x=44
+win=30705 visit=60884 rate=0.504320 x=45
+win=19046 visit=38188 rate=0.498743 x=46
+win=7119 visit=14211 rate=0.500950 x=47
+win=8041 visit=16179 rate=0.497002 x=48
+win=11392 visit=22443 rate=0.507597 x=49
+win=31672 visit=62492 rate=0.506817 x=50
+win=13322 visit=26484 rate=0.503021 x=51
+win=8272 visit=16686 rate=0.495745 x=52
+win=5878 visit=11756 rate=0.500000 x=53
+win=5622 visit=11346 rate=0.495505 x=54
+win=6689 visit=13213 rate=0.506244 x=55
+win=5368 visit=10832 rate=0.495569 x=56
+win=5311 visit=10597 rate=0.501180 x=57
+win=4858 visit=9723 rate=0.499640 x=58
+win=4273 visit=8573 rate=0.498425 x=59
+final win=11392 visit=22443 rate=0.507597 x=49
+final headvisit=1409845,cnt=51
+
+
+win=13762 visit=27303 rate=0.504047 x=0
+win=9257 visit=18318 rate=0.505350 x=1
+win=11715 visit=23108 rate=0.506967 x=2
+win=13832 visit=27385 rate=0.505094 x=3
+win=10656 visit=21045 rate=0.506344 x=4
+win=14750 visit=29083 rate=0.507169 x=5
+win=17207 visit=34366 rate=0.500698 x=6
+win=10959 visit=23544 rate=0.465469 x=7
+win=17574 visit=37656 rate=0.466699 x=9
+win=16396 visit=32367 rate=0.506565 x=11
+win=40163 visit=79753 rate=0.503592 x=12
+win=16194 visit=34471 rate=0.469786 x=13
+win=7718 visit=16718 rate=0.461658 x=16
+win=17662 visit=34897 rate=0.506118 x=17
+win=6160 visit=14485 rate=0.425268 x=19
+win=5745 visit=13577 rate=0.423142 x=20
+win=77439 visit=154809 rate=0.500223 x=21
+win=23851 visit=47379 rate=0.503409 x=22
+win=14179 visit=28144 rate=0.503802 x=23
+win=13046 visit=25598 rate=0.509649 x=24
+win=13043 visit=25592 rate=0.509651 x=25
+win=20263 visit=39809 rate=0.509006 x=26
+win=24723 visit=49196 rate=0.502541 x=27
+win=17603 visit=34801 rate=0.505819 x=28
+win=13980 visit=27632 rate=0.505935 x=29
+win=8292 visit=16770 rate=0.494454 x=30
+win=11650 visit=23129 rate=0.503697 x=31
+win=42538 visit=84761 rate=0.501858 x=32
+win=3630 visit=8883 rate=0.408646 x=33
+win=6191 visit=12517 rate=0.494607 x=35
+win=11984 visit=23717 rate=0.505292 x=36
+win=12036 visit=23780 rate=0.506140 x=41
+win=16025 visit=31552 rate=0.507892 x=42
+win=19019 visit=37443 rate=0.507945 x=43
+win=40561 visit=80680 rate=0.502739 x=44
+win=33615 visit=66443 rate=0.505922 x=45
+win=24598 visit=49102 rate=0.500957 x=46
+win=7934 visit=15788 rate=0.502534 x=47
+win=8870 visit=17533 rate=0.505903 x=48
+win=12771 visit=25504 rate=0.500745 x=52
+win=6326 visit=12838 rate=0.492756 x=53
+win=8849 visit=17523 rate=0.504993 x=54
+win=5272 visit=10559 rate=0.499290 x=55
+win=4736 visit=9690 rate=0.488751 x=56
+win=7411 visit=14534 rate=0.509908 x=57
+win=5221 visit=10489 rate=0.497760 x=58
+win=4097 visit=8343 rate=0.491070 x=59
+final win=7411 visit=14534 rate=0.509908 x=57
+final headvisit=1502614,cnt=47
+
+
+win=15472 visit=30503 rate=0.507229 x=0
+win=9698 visit=19107 rate=0.507563 x=1
+win=11242 visit=22220 rate=0.505941 x=2
+win=11937 visit=23849 rate=0.500524 x=3
+win=9250 visit=18462 rate=0.501029 x=4
+win=15046 visit=29671 rate=0.507094 x=5
+win=19782 visit=39187 rate=0.504810 x=6
+win=10690 visit=23032 rate=0.464137 x=7
+win=18792 visit=40453 rate=0.464539 x=9
+win=17085 visit=33782 rate=0.505743 x=11
+win=35613 visit=71235 rate=0.499937 x=12
+win=17631 visit=37393 rate=0.471505 x=13
+win=19076 visit=40793 rate=0.467629 x=16
+win=23254 visit=46284 rate=0.502420 x=17
+win=6117 visit=14453 rate=0.423234 x=19
+win=5030 visit=12114 rate=0.415222 x=20
+win=108165 visit=216037 rate=0.500678 x=21
+win=58356 visit=116124 rate=0.502532 x=22
+win=14662 visit=29100 rate=0.503849 x=23
+win=10982 visit=21829 rate=0.503092 x=24
+win=10462 visit=20828 rate=0.502305 x=25
+win=17946 visit=35462 rate=0.506063 x=26
+win=19303 visit=38447 rate=0.502068 x=27
+win=18417 visit=36353 rate=0.506616 x=28
+win=15054 visit=29696 rate=0.506937 x=29
+win=10109 visit=20106 rate=0.502785 x=30
+win=11593 visit=23004 rate=0.503956 x=31
+win=39580 visit=79216 rate=0.499647 x=32
+win=4643 visit=10943 rate=0.424290 x=33
+win=7218 visit=14346 rate=0.503137 x=35
+win=11682 visit=23127 rate=0.505124 x=36
+win=11465 visit=22715 rate=0.504733 x=41
+win=15325 visit=30269 rate=0.506294 x=42
+win=15080 visit=30072 rate=0.501463 x=43
+win=44351 visit=88512 rate=0.501073 x=44
+win=22260 visit=44390 rate=0.501464 x=45
+win=27305 visit=54264 rate=0.503188 x=46
+win=6895 visit=13796 rate=0.499783 x=47
+win=9027 visit=17794 rate=0.507306 x=48
+win=9014 visit=17751 rate=0.507802 x=53
+win=10402 visit=20352 rate=0.511105 x=54
+win=4052 visit=8396 rate=0.482611 x=55
+win=3845 visit=7656 rate=0.502220 x=56
+win=4653 visit=9395 rate=0.495263 x=58
+win=5249 visit=10412 rate=0.504130 x=59
+final win=10402 visit=20352 rate=0.511105 x=54
+final headvisit=1592930,cnt=45
+
+
+win=16817 visit=33204 rate=0.506475 x=0
+win=12973 visit=25575 rate=0.507253 x=1
+win=12225 visit=24303 rate=0.503024 x=2
+win=13840 visit=27730 rate=0.499098 x=3
+win=10609 visit=21072 rate=0.503464 x=4
+win=14712 visit=29194 rate=0.503939 x=5
+win=20500 visit=40833 rate=0.502045 x=6
+win=11740 visit=25316 rate=0.463738 x=7
+win=20830 visit=44887 rate=0.464054 x=9
+win=14819 visit=29775 rate=0.497699 x=11
+win=51992 visit=102812 rate=0.505700 x=12
+win=17644 visit=37587 rate=0.469418 x=13
+win=20003 visit=42808 rate=0.467272 x=16
+win=26516 visit=52694 rate=0.503207 x=17
+win=5751 visit=13733 rate=0.418772 x=19
+win=8233 visit=18932 rate=0.434872 x=20
+win=119980 visit=238636 rate=0.502774 x=21
+win=58472 visit=116491 rate=0.501944 x=22
+win=14288 visit=28432 rate=0.502532 x=23
+win=13065 visit=25798 rate=0.506435 x=24
+win=12699 visit=24965 rate=0.508672 x=25
+win=17493 visit=34639 rate=0.505009 x=26
+win=20384 visit=40553 rate=0.502651 x=27
+win=17088 visit=33901 rate=0.504056 x=28
+win=15929 visit=31467 rate=0.506213 x=29
+win=12843 visit=25505 rate=0.503548 x=31
+win=40274 visit=80924 rate=0.497677 x=32
+win=5423 visit=12647 rate=0.428797 x=33
+win=8338 visit=16333 rate=0.510500 x=35
+win=13687 visit=26956 rate=0.507753 x=36
+win=10631 visit=21175 rate=0.502054 x=41
+win=14703 visit=29379 rate=0.500460 x=42
+win=19383 visit=38050 rate=0.509409 x=43
+win=46775 visit=93377 rate=0.500926 x=44
+win=24454 visit=48599 rate=0.503179 x=45
+win=25691 visit=51440 rate=0.499436 x=46
+win=6372 visit=12867 rate=0.495220 x=47
+win=9261 visit=18334 rate=0.505127 x=48
+win=8971 visit=17705 rate=0.506693 x=53
+win=5989 visit=11902 rate=0.503193 x=55
+win=3496 visit=7036 rate=0.496873 x=56
+win=4736 visit=9569 rate=0.494932 x=58
+win=4501 visit=9080 rate=0.495705 x=59
+final win=8338 visit=16333 rate=0.510500 x=35
+final headvisit=1676215,cnt=43
+
+
+win=24547 visit=48042 rate=0.510949 x=0
+win=18134 visit=35445 rate=0.511610 x=1
+win=16732 visit=32964 rate=0.507584 x=2
+win=20321 visit=40278 rate=0.504519 x=3
+win=12441 visit=24705 rate=0.503582 x=4
+win=16511 visit=32928 rate=0.501427 x=5
+win=27414 visit=54570 rate=0.502364 x=6
+win=11667 visit=25435 rate=0.458699 x=7
+win=22848 visit=49624 rate=0.460422 x=9
+win=22230 visit=44143 rate=0.503591 x=11
+win=52685 visit=105380 rate=0.499953 x=12
+win=19788 visit=42386 rate=0.466852 x=13
+win=20969 visit=45064 rate=0.465316 x=16
+win=29491 visit=58850 rate=0.501121 x=17
+win=7649 visit=17975 rate=0.425535 x=19
+win=5843 visit=14107 rate=0.414192 x=20
+win=124373 visit=249326 rate=0.498837 x=21
+win=69265 visit=138105 rate=0.501539 x=22
+win=15301 visit=30426 rate=0.502892 x=23
+win=5874 visit=12589 rate=0.466598 x=24
+win=27044 visit=54026 rate=0.500574 x=26
+win=5216 visit=11037 rate=0.472592 x=28
+win=15974 visit=31793 rate=0.502438 x=29
+win=21789 visit=42264 rate=0.515545 x=31
+win=46437 visit=93519 rate=0.496552 x=32
+win=6345 visit=14705 rate=0.431486 x=33
+win=14624 visit=28969 rate=0.504815 x=36
+win=15465 visit=30687 rate=0.503959 x=41
+win=20496 visit=40693 rate=0.503674 x=42
+win=16800 visit=33588 rate=0.500179 x=43
+win=49655 visit=100032 rate=0.496391 x=44
+win=29748 visit=59102 rate=0.503333 x=45
+win=18962 visit=37786 rate=0.501826 x=46
+win=9605 visit=18876 rate=0.508847 x=47
+win=11255 visit=22123 rate=0.508747 x=48
+win=6781 visit=13414 rate=0.505517 x=55
+win=5066 visit=9808 rate=0.516517 x=56
+win=8215 visit=16093 rate=0.510470 x=58
+win=5982 visit=11922 rate=0.501761 x=59
+final win=5066 visit=9808 rate=0.516517 x=56
+final headvisit=1772779,cnt=39
+
+
+win=63265 visit=124277 rate=0.509064 x=0
+win=5709 visit=12352 rate=0.462192 x=1
+win=48751 visit=96320 rate=0.506136 x=3
+win=61746 visit=121354 rate=0.508809 x=4
+win=42177 visit=83628 rate=0.504341 x=5
+win=37956 visit=75468 rate=0.502942 x=6
+win=5532 visit=11996 rate=0.461154 x=7
+win=5467 visit=11865 rate=0.460767 x=9
+win=31906 visit=63748 rate=0.500502 x=11
+win=29425 visit=58931 rate=0.499313 x=12
+win=6012 visit=12962 rate=0.463817 x=13
+win=1993 visit=4746 rate=0.419933 x=16
+win=1937 visit=4627 rate=0.418630 x=17
+win=1230 visit=3122 rate=0.393978 x=19
+win=1513 visit=3727 rate=0.405957 x=20
+win=26949 visit=54122 rate=0.497931 x=21
+win=28557 visit=57246 rate=0.498847 x=22
+win=28214 visit=56580 rate=0.498657 x=23
+win=5529 visit=11991 rate=0.461096 x=24
+win=25770 visit=51827 rate=0.497231 x=26
+win=8155 visit=17251 rate=0.472726 x=28
+win=22782 visit=46009 rate=0.495164 x=29
+win=40103 visit=79622 rate=0.503667 x=31
+win=26013 visit=52301 rate=0.497371 x=32
+win=1722 visit=4174 rate=0.412554 x=33
+win=28679 visit=57484 rate=0.498904 x=41
+win=29169 visit=58434 rate=0.499179 x=42
+win=61865 visit=121583 rate=0.508829 x=43
+win=26997 visit=54214 rate=0.497971 x=44
+win=31570 visit=63094 rate=0.500365 x=45
+win=45064 visit=89204 rate=0.505179 x=46
+win=30636 visit=61282 rate=0.499918 x=47
+win=43073 visit=85360 rate=0.504604 x=48
+win=1786 visit=4307 rate=0.414674 x=51
+win=42712 visit=84661 rate=0.504506 x=55
+win=34248 visit=68287 rate=0.501530 x=58
+win=26519 visit=53272 rate=0.497804 x=59
+final win=63265 visit=124277 rate=0.509064 x=0
+final headvisit=1921428,cnt=37
+
+
+win=2046 visit=4896 rate=0.417892 x=1
+win=48787 visit=97080 rate=0.502544 x=3
+win=59584 visit=118029 rate=0.504825 x=4
+win=57949 visit=114862 rate=0.504510 x=5
+win=62608 visit=123889 rate=0.505356 x=6
+win=6348 visit=13743 rate=0.461908 x=7
+win=11065 visit=23202 rate=0.476899 x=9
+win=44959 visit=89641 rate=0.501545 x=11
+win=56120 visit=111313 rate=0.504164 x=12
+win=12508 visit=26071 rate=0.479767 x=13
+win=2630 visit=6125 rate=0.429388 x=16
+win=2687 visit=6244 rate=0.430333 x=17
+win=1262 visit=3220 rate=0.391925 x=19
+win=1804 visit=4383 rate=0.411590 x=20
+win=38124 visit=76338 rate=0.499411 x=21
+win=50605 visit=100613 rate=0.502967 x=22
+win=36954 visit=74057 rate=0.498994 x=23
+win=2720 visit=6312 rate=0.430925 x=24
+win=2301 visit=5435 rate=0.423367 x=25
+win=12826 visit=26704 rate=0.480303 x=28
+win=54281 visit=107740 rate=0.503815 x=29
+win=2806 visit=6492 rate=0.432224 x=31
+win=53233 visit=105712 rate=0.503566 x=32
+win=1932 visit=4655 rate=0.415038 x=33
+win=2087 visit=4985 rate=0.418656 x=36
+win=2024 visit=4849 rate=0.417406 x=41
+win=58261 visit=115465 rate=0.504577 x=42
+win=56830 visit=112690 rate=0.504304 x=43
+win=51059 visit=101492 rate=0.503084 x=44
+win=34723 visit=69707 rate=0.498128 x=45
+win=11239 visit=23548 rate=0.477280 x=46
+win=57746 visit=114466 rate=0.504482 x=48
+win=2486 visit=5823 rate=0.426928 x=51
+win=55127 visit=109386 rate=0.503968 x=55
+win=51125 visit=101620 rate=0.503100 x=58
+win=48150 visit=95842 rate=0.502389 x=59
+final win=62608 visit=123889 rate=0.505356 x=6
+final headvisit=2116629,cnt=36
+
+
+win=2773 visit=6553 rate=0.423165 x=1
+win=17532 visit=36688 rate=0.477867 x=3
+win=68388 visit=137520 rate=0.497295 x=4
+win=64643 visit=130157 rate=0.496654 x=5
+win=11484 visit=24491 rate=0.468907 x=7
+win=15133 visit=31863 rate=0.474940 x=9
+win=69621 visit=139967 rate=0.497410 x=11
+win=74662 visit=149895 rate=0.498095 x=12
+win=18135 visit=37897 rate=0.478534 x=13
+win=5794 visit=12866 rate=0.450334 x=16
+win=4963 visit=11145 rate=0.445312 x=17
+win=3607 visit=8314 rate=0.433847 x=19
+win=2991 visit=7017 rate=0.426251 x=20
+win=51575 visit=104367 rate=0.494170 x=21
+win=74303 visit=149187 rate=0.498053 x=22
+win=65096 visit=131050 rate=0.496726 x=23
+win=4241 visit=9644 rate=0.439755 x=24
+win=3914 visit=8959 rate=0.436879 x=25
+win=18991 visit=39616 rate=0.479377 x=28
+win=70037 visit=140787 rate=0.497468 x=29
+win=4147 visit=9446 rate=0.439022 x=31
+win=61543 visit=124045 rate=0.496134 x=32
+win=3322 visit=7716 rate=0.430534 x=33
+win=3921 visit=8974 rate=0.436929 x=36
+win=3634 visit=8373 rate=0.434014 x=41
+win=67147 visit=135093 rate=0.497043 x=44
+win=68972 visit=138688 rate=0.497318 x=45
+win=15217 visit=32030 rate=0.475086 x=46
+win=66340 visit=133503 rate=0.496918 x=48
+win=6702 visit=14737 rate=0.454774 x=51
+win=70144 visit=140997 rate=0.497486 x=55
+win=59578 visit=120169 rate=0.495785 x=58
+win=72719 visit=146070 rate=0.497837 x=59
+final win=74662 visit=149895 rate=0.498095 x=12
+final headvisit=2337824,cnt=33
+
+
+win=9532 visit=20673 rate=0.461085 x=1
+win=21424 visit=44795 rate=0.478268 x=3
+win=76835 visit=155187 rate=0.495112 x=4
+win=56666 visit=115180 rate=0.491978 x=5
+win=15352 visit=32529 rate=0.471948 x=7
+win=22040 visit=46036 rate=0.478756 x=9
+win=60930 visit=123648 rate=0.492770 x=11
+win=26010 visit=54015 rate=0.481533 x=13
+win=26630 visit=55261 rate=0.481895 x=14
+win=14542 visit=30885 rate=0.470843 x=16
+win=15422 visit=32670 rate=0.472054 x=17
+win=28496 visit=59004 rate=0.482950 x=19
+win=26255 visit=54508 rate=0.481672 x=20
+win=26235 visit=54469 rate=0.481650 x=21
+win=249821 visit=495878 rate=0.503795 x=22
+win=61398 visit=124577 rate=0.492852 x=23
+win=11283 visit=24255 rate=0.465182 x=24
+win=10306 visit=22257 rate=0.463045 x=25
+win=21865 visit=45682 rate=0.478635 x=28
+win=80259 visit=161965 rate=0.495533 x=29
+win=11208 visit=24102 rate=0.465024 x=31
+win=21329 visit=44603 rate=0.478197 x=32
+win=20340 visit=42610 rate=0.477353 x=33
+win=11230 visit=24149 rate=0.465030 x=36
+win=9610 visit=20832 rate=0.461310 x=41
+win=25208 visit=52405 rate=0.481023 x=45
+win=15170 visit=32162 rate=0.471675 x=46
+win=82525 visit=166451 rate=0.495792 x=48
+win=13689 visit=29156 rate=0.469509 x=51
+win=78681 visit=158841 rate=0.495344 x=55
+win=110528 visit=221803 rate=0.498316 x=58
+win=89230 visit=179716 rate=0.496506 x=59
+final win=249821 visit=495878 rate=0.503795 x=22
+final headvisit=2750304,cnt=32
+
+
+win=26808 visit=54826 rate=0.488965 x=1
+win=54176 visit=108682 rate=0.498482 x=3
+win=20857 visit=43029 rate=0.484720 x=4
+win=15313 visit=31981 rate=0.478816 x=7
+win=9565 visit=20439 rate=0.467978 x=9
+win=8132 visit=17535 rate=0.463758 x=10
+win=9749 visit=20811 rate=0.468454 x=11
+win=13514 visit=28381 rate=0.476164 x=13
+win=27766 visit=56720 rate=0.489528 x=14
+win=3738 visit=8524 rate=0.438527 x=16
+win=17411 visit=36169 rate=0.481379 x=19
+win=26904 visit=55016 rate=0.489021 x=20
+win=27179 visit=55559 rate=0.489192 x=23
+win=11573 visit=24484 rate=0.472676 x=24
+win=9917 visit=21150 rate=0.468889 x=25
+win=22755 visit=46798 rate=0.486239 x=28
+win=76776 visit=152894 rate=0.502152 x=29
+win=30368 visit=61862 rate=0.490899 x=31
+win=1200748 visit=2243498 rate=0.535212 x=32
+win=28796 visit=58756 rate=0.490095 x=33
+win=32168 visit=65415 rate=0.491753 x=36
+win=10783 visit=22895 rate=0.470976 x=41
+win=28017 visit=57218 rate=0.489654 x=45
+win=22024 visit=45346 rate=0.485688 x=46
+win=58856 visit=117850 rate=0.499415 x=48
+win=78070 visit=155425 rate=0.502300 x=59
+final win=1200748 visit=2243498 rate=0.535212 x=32
+final headvisit=3611263,cnt=26
+
+
+win=2077 visit=5123 rate=0.405427 x=1
+win=2216 visit=5425 rate=0.408479 x=3
+win=2577 visit=6205 rate=0.415310 x=9
+win=2664 visit=6392 rate=0.416771 x=10
+win=2599 visit=6252 rate=0.415707 x=11
+win=160 visit=723 rate=0.221300 x=13
+win=2286 visit=5578 rate=0.409824 x=16
+win=4275 visit=9807 rate=0.435913 x=23
+win=3232 visit=7603 rate=0.425095 x=24
+win=3518 visit=8210 rate=0.428502 x=25
+win=5687 visit=12760 rate=0.445690 x=28
+win=877920 visit=1723305 rate=0.509440 x=29
+win=3478 visit=8127 rate=0.427956 x=41
+win=1300124 visit=2546747 rate=0.510504 x=46
+win=500296 visit=985788 rate=0.507509 x=59
+final win=1300124 visit=2546747 rate=0.510504 x=46
+final headvisit=5338045,cnt=15
+
+
+win=6135 visit=59643 rate=0.102862 x=1
+win=6450 visit=62282 rate=0.103561 x=3
+win=16625 visit=145036 rate=0.114627 x=9
+win=18299 visit=158390 rate=0.115531 x=10
+win=19265 visit=166072 rate=0.116004 x=11
+win=803 visit=12529 rate=0.064091 x=13
+win=336460 visit=2574902 rate=0.130669 x=16
+win=29796 visit=249106 rate=0.119612 x=24
+win=38290 visit=315410 rate=0.121398 x=25
+win=28564 visit=239448 rate=0.119291 x=28
+win=317512 visit=2432574 rate=0.130525 x=29
+win=39063 visit=321421 rate=0.121532 x=41
+win=327348 visit=2506466 rate=0.130601 x=59
+final win=336460 visit=2574902 rate=0.130669 x=16
+final headvisit=9243279,cnt=13
+
+
+win=2320 visit=339498 rate=0.006834 x=1
+win=3243 visit=405003 rate=0.008007 x=3
+win=4685 visit=502996 rate=0.009314 x=9
+win=4888 visit=516476 rate=0.009464 x=10
+win=4428 visit=485837 rate=0.009114 x=11
+win=30397 visit=2021361 rate=0.015038 x=13
+win=9963 visit=838113 rate=0.011887 x=24
+win=18671 visit=1355212 rate=0.013777 x=25
+win=8619 visit=755130 rate=0.011414 x=28
+win=41289 visit=2624063 rate=0.015735 x=29
+win=10084 visit=845529 rate=0.011926 x=41
+win=40626 visit=2587686 rate=0.015700 x=59
+final win=41289 visit=2624063 rate=0.015735 x=29
+final headvisit=13276904,cnt=12
+
+
+win=2175 visit=2856591 rate=0.000761 x=1
+win=2133 visit=2843397 rate=0.000750 x=13
+win=531 visit=2319266 rate=0.000229 x=24
+win=463 visit=2295923 rate=0.000202 x=25
+win=461 visit=2295232 rate=0.000201 x=28
+win=538 visit=2321666 rate=0.000232 x=41
+win=547 visit=2324743 rate=0.000235 x=53
+win=546 visit=2324401 rate=0.000235 x=59
+final win=2175 visit=2856591 rate=0.000761 x=1
+final headvisit=19581219,cnt=8
+
+
+win=69 visit=3620639 rate=0.000019 x=13
+win=318 visit=3733457 rate=0.000085 x=24
+win=227 visit=3692421 rate=0.000061 x=25
+win=235 visit=3696038 rate=0.000064 x=28
+win=320 visit=3734356 rate=0.000086 x=41
+win=309 visit=3729408 rate=0.000083 x=53
+win=312 visit=3730758 rate=0.000084 x=59
+final win=320 visit=3734356 rate=0.000086 x=41
+final headvisit=25937077,cnt=7
+
+
+win=0 visit=38836193 rate=0.000000 x=13
+final win=0 visit=38836193 rate=0.000000 x=13
+final headvisit=38836193,cnt=1
+
+
+win=7187 visit=14464 rate=0.496889 x=0
+win=6524 visit=12937 rate=0.504290 x=1
+win=8044 visit=15956 rate=0.504136 x=2
+win=8977 visit=17920 rate=0.500949 x=3
+win=6567 visit=13166 rate=0.498785 x=4
+win=7875 visit=15728 rate=0.500699 x=5
+win=8075 visit=16209 rate=0.498180 x=6
+win=12985 visit=25794 rate=0.503412 x=7
+win=18697 visit=37768 rate=0.495049 x=8
+win=20709 visit=41160 rate=0.503134 x=9
+win=9243 visit=18628 rate=0.496189 x=10
+win=6991 visit=14142 rate=0.494343 x=11
+win=9537 visit=18999 rate=0.501974 x=12
+win=12542 visit=25096 rate=0.499761 x=13
+win=23957 visit=47810 rate=0.501088 x=14
+win=22771 visit=45713 rate=0.498130 x=15
+win=14012 visit=27976 rate=0.500858 x=16
+win=7431 visit=15008 rate=0.495136 x=17
+win=7206 visit=14600 rate=0.493562 x=18
+win=13524 visit=26912 rate=0.502527 x=19
+win=19820 visit=39707 rate=0.499156 x=20
+win=22425 visit=44672 rate=0.501992 x=21
+win=13196 visit=26378 rate=0.500265 x=22
+win=7891 visit=15853 rate=0.497761 x=23
+win=9666 visit=19068 rate=0.506923 x=24
+win=11013 visit=21759 rate=0.506135 x=25
+win=13081 visit=26057 rate=0.502015 x=26
+win=12510 visit=25025 rate=0.499900 x=27
+win=8866 visit=17876 rate=0.495972 x=28
+win=7967 visit=15971 rate=0.498842 x=29
+win=6053 visit=12160 rate=0.497780 x=30
+win=6554 visit=13194 rate=0.496741 x=31
+win=8979 visit=18050 rate=0.497452 x=32
+win=10266 visit=20649 rate=0.497167 x=33
+win=10043 visit=19959 rate=0.503182 x=34
+win=8054 visit=15838 rate=0.508524 x=35
+win=6793 visit=13713 rate=0.495369 x=36
+win=20260 visit=40227 rate=0.503642 x=38
+win=18934 visit=37790 rate=0.501032 x=39
+win=12167 visit=24348 rate=0.499713 x=40
+win=8228 visit=16393 rate=0.501922 x=41
+win=7997 visit=16071 rate=0.497604 x=42
+win=10290 visit=20551 rate=0.500706 x=43
+win=15458 visit=30957 rate=0.499338 x=44
+win=14993 visit=30113 rate=0.497891 x=45
+win=9577 visit=19391 rate=0.493889 x=46
+win=5967 visit=12063 rate=0.494653 x=47
+win=7229 visit=14463 rate=0.499827 x=48
+win=8237 visit=16435 rate=0.501186 x=49
+win=10919 visit=21679 rate=0.503667 x=50
+win=8538 visit=17205 rate=0.496251 x=51
+win=7318 visit=14685 rate=0.498332 x=52
+win=4895 visit=9863 rate=0.496299 x=53
+win=5041 visit=10148 rate=0.496748 x=54
+win=4791 visit=9652 rate=0.496374 x=55
+win=4538 visit=9186 rate=0.494013 x=56
+win=4046 visit=8227 rate=0.491795 x=57
+win=3895 visit=7906 rate=0.492664 x=58
+win=4186 visit=8316 rate=0.503367 x=59
+final win=8054 visit=15838 rate=0.508524 x=35
+final headvisit=1227584,cnt=59
+
+
+win=8050 visit=16216 rate=0.496423 x=0
+win=5381 visit=10937 rate=0.492000 x=1
+win=6151 visit=12564 rate=0.489573 x=2
+win=10666 visit=21171 rate=0.503802 x=3
+win=6722 visit=13537 rate=0.496565 x=4
+win=8915 visit=17774 rate=0.501575 x=5
+win=9901 visit=19773 rate=0.500733 x=6
+win=4806 visit=10587 rate=0.453953 x=7
+win=22983 visit=45781 rate=0.502020 x=9
+win=9853 visit=19878 rate=0.495674 x=10
+win=7901 visit=15911 rate=0.496575 x=11
+win=11241 visit=22378 rate=0.502324 x=12
+win=20224 visit=40037 rate=0.505133 x=13
+win=28822 visit=57766 rate=0.498944 x=14
+win=31587 visit=62912 rate=0.502082 x=15
+win=17758 visit=35189 rate=0.504646 x=16
+win=10866 visit=21473 rate=0.506031 x=17
+win=9210 visit=18562 rate=0.496175 x=18
+win=15385 visit=30721 rate=0.500798 x=19
+win=23208 visit=46513 rate=0.498957 x=20
+win=22734 visit=45688 rate=0.497592 x=21
+win=12523 visit=25349 rate=0.494023 x=22
+win=8900 visit=17834 rate=0.499047 x=23
+win=9714 visit=19364 rate=0.501653 x=24
+win=10414 visit=20995 rate=0.496023 x=25
+win=15822 visit=31532 rate=0.501776 x=26
+win=14774 visit=29492 rate=0.500949 x=27
+win=9410 visit=19029 rate=0.494508 x=28
+win=8550 visit=17186 rate=0.497498 x=29
+win=6558 visit=13202 rate=0.496743 x=30
+win=6935 visit=13950 rate=0.497133 x=31
+win=13948 visit=27821 rate=0.501348 x=32
+win=11638 visit=23434 rate=0.496629 x=33
+win=10154 visit=20541 rate=0.494328 x=34
+win=7570 visit=15223 rate=0.497274 x=36
+win=21981 visit=43874 rate=0.501003 x=39
+win=14403 visit=28766 rate=0.500695 x=40
+win=8946 visit=17946 rate=0.498495 x=41
+win=8519 visit=17164 rate=0.496330 x=42
+win=9321 visit=18804 rate=0.495692 x=43
+win=18874 visit=37785 rate=0.499510 x=44
+win=18735 visit=37363 rate=0.501432 x=45
+win=11794 visit=23654 rate=0.498605 x=46
+win=6921 visit=13908 rate=0.497627 x=47
+win=5249 visit=10903 rate=0.481427 x=48
+win=7443 visit=15063 rate=0.494125 x=49
+win=10238 visit=20568 rate=0.497764 x=50
+win=12028 visit=23729 rate=0.506890 x=51
+win=8263 visit=16498 rate=0.500849 x=52
+win=5384 visit=10813 rate=0.497919 x=53
+win=5748 visit=11492 rate=0.500174 x=54
+win=5970 visit=11820 rate=0.505076 x=55
+win=5282 visit=10574 rate=0.499527 x=56
+win=4842 visit=9700 rate=0.499175 x=57
+win=4580 visit=9191 rate=0.498314 x=58
+win=3839 visit=7741 rate=0.495931 x=59
+final win=12028 visit=23729 rate=0.506890 x=51
+final headvisit=1277676,cnt=56
+
+
+win=8453 visit=17105 rate=0.494183 x=0
+win=7033 visit=14062 rate=0.500142 x=1
+win=8573 visit=17149 rate=0.499913 x=2
+win=9767 visit=19588 rate=0.498622 x=3
+win=7901 visit=15768 rate=0.501078 x=4
+win=9080 visit=18281 rate=0.496691 x=5
+win=11836 visit=23514 rate=0.503360 x=6
+win=4686 visit=10467 rate=0.447693 x=7
+win=24957 visit=49732 rate=0.501830 x=9
+win=11170 visit=22710 rate=0.491854 x=10
+win=10320 visit=20620 rate=0.500485 x=11
+win=9764 visit=19810 rate=0.492882 x=12
+win=26331 visit=52000 rate=0.506365 x=13
+win=40478 visit=81120 rate=0.498989 x=14
+win=7894 visit=17539 rate=0.450083 x=15
+win=12086 visit=24125 rate=0.500974 x=17
+win=10835 visit=21767 rate=0.497772 x=18
+win=20277 visit=40172 rate=0.504755 x=19
+win=24913 visit=50355 rate=0.494747 x=20
+win=29176 visit=58213 rate=0.501194 x=21
+win=18608 visit=37384 rate=0.497753 x=22
+win=11777 visit=23427 rate=0.502711 x=23
+win=10713 visit=21367 rate=0.501381 x=24
+win=13198 visit=26411 rate=0.499716 x=25
+win=17268 visit=34571 rate=0.499494 x=26
+win=16733 visit=33459 rate=0.500105 x=27
+win=12692 visit=25405 rate=0.499587 x=28
+win=10928 visit=21787 rate=0.501584 x=29
+win=6460 visit=13140 rate=0.491629 x=30
+win=6690 visit=13582 rate=0.492564 x=31
+win=14407 visit=28962 rate=0.497445 x=32
+win=13299 visit=26760 rate=0.496973 x=33
+win=11908 visit=23974 rate=0.496705 x=34
+win=7115 visit=14515 rate=0.490183 x=36
+win=22658 visit=45753 rate=0.495224 x=39
+win=16504 visit=32897 rate=0.501687 x=40
+win=10180 visit=20354 rate=0.500147 x=41
+win=9541 visit=19225 rate=0.496281 x=42
+win=10946 visit=21857 rate=0.500801 x=43
+win=22950 visit=45758 rate=0.501552 x=44
+win=23225 visit=46258 rate=0.502075 x=45
+win=12970 visit=25899 rate=0.500792 x=46
+win=6895 visit=13907 rate=0.495793 x=47
+win=8524 visit=17022 rate=0.500764 x=48
+win=5852 visit=11946 rate=0.489871 x=49
+win=10845 visit=21694 rate=0.499908 x=52
+win=6257 visit=12592 rate=0.496903 x=53
+win=6392 visit=12811 rate=0.498946 x=54
+win=5745 visit=11550 rate=0.497403 x=55
+win=4440 visit=8985 rate=0.494157 x=56
+win=4612 visit=9286 rate=0.496662 x=57
+win=4823 visit=9698 rate=0.497319 x=58
+win=4034 visit=8143 rate=0.495395 x=59
+final win=26331 visit=52000 rate=0.506365 x=13
+final headvisit=1334476,cnt=53
+
+
+win=11938 visit=23807 rate=0.501449 x=0
+win=6564 visit=13321 rate=0.492756 x=1
+win=8795 visit=17663 rate=0.497934 x=2
+win=10225 visit=20593 rate=0.496528 x=3
+win=9212 visit=18354 rate=0.501907 x=4
+win=11581 visit=23178 rate=0.499655 x=5
+win=11744 visit=23571 rate=0.498239 x=6
+win=7163 visit=15678 rate=0.456882 x=7
+win=9221 visit=20248 rate=0.455403 x=9
+win=15608 visit=30887 rate=0.505326 x=11
+win=13067 visit=26036 rate=0.501882 x=12
+win=12954 visit=28423 rate=0.455758 x=14
+win=12962 visit=28399 rate=0.456425 x=15
+win=17559 visit=34962 rate=0.502231 x=17
+win=13433 visit=26894 rate=0.499479 x=18
+win=27257 visit=54701 rate=0.498291 x=19
+win=34137 visit=68785 rate=0.496286 x=20
+win=40105 visit=80209 rate=0.500006 x=21
+win=28422 visit=56661 rate=0.501615 x=22
+win=11264 visit=22795 rate=0.494143 x=23
+win=12378 visit=24798 rate=0.499153 x=24
+win=19813 visit=39326 rate=0.503814 x=25
+win=26308 visit=52270 rate=0.503310 x=26
+win=22544 visit=44959 rate=0.501435 x=27
+win=17147 visit=34137 rate=0.502300 x=28
+win=12824 visit=25647 rate=0.500019 x=29
+win=7401 visit=15014 rate=0.492940 x=30
+win=7558 visit=15295 rate=0.494148 x=31
+win=16491 visit=32612 rate=0.505673 x=32
+win=15514 visit=31197 rate=0.497291 x=33
+win=14903 visit=29855 rate=0.499179 x=34
+win=9926 visit=19835 rate=0.500429 x=36
+win=23145 visit=46559 rate=0.497111 x=40
+win=11899 visit=23974 rate=0.496329 x=41
+win=10584 visit=21292 rate=0.497088 x=42
+win=11526 visit=23150 rate=0.497883 x=43
+win=29608 visit=58910 rate=0.502597 x=44
+win=26929 visit=53714 rate=0.501340 x=45
+win=16837 visit=33605 rate=0.501027 x=46
+win=8282 visit=16661 rate=0.497089 x=47
+win=6936 visit=14047 rate=0.493771 x=48
+win=13848 visit=27657 rate=0.500705 x=52
+win=8606 visit=17089 rate=0.503599 x=53
+win=8863 visit=17548 rate=0.505072 x=54
+win=5555 visit=11163 rate=0.497626 x=55
+win=4104 visit=8420 rate=0.487411 x=56
+win=4980 visit=10044 rate=0.495818 x=57
+win=4854 visit=9853 rate=0.492642 x=58
+win=4482 visit=9014 rate=0.497227 x=59
+final win=16491 visit=32612 rate=0.505673 x=32
+final headvisit=1402810,cnt=49
+
+
+win=15612 visit=31105 rate=0.501913 x=0
+win=9756 visit=19416 rate=0.502472 x=1
+win=9768 visit=19677 rate=0.496417 x=2
+win=13839 visit=27676 rate=0.500036 x=3
+win=11352 visit=22578 rate=0.502790 x=4
+win=15621 visit=31059 rate=0.502946 x=5
+win=19236 visit=37982 rate=0.506450 x=6
+win=6987 visit=15020 rate=0.465180 x=7
+win=12349 visit=26845 rate=0.460011 x=9
+win=16462 visit=32864 rate=0.500913 x=11
+win=4893 visit=10639 rate=0.459912 x=12
+win=17487 visit=38341 rate=0.456091 x=14
+win=17469 visit=38010 rate=0.459590 x=15
+win=25374 visit=50296 rate=0.504493 x=17
+win=14738 visit=29560 rate=0.498579 x=18
+win=29284 visit=58816 rate=0.497892 x=19
+win=53447 visit=107339 rate=0.497927 x=20
+win=13546 visit=29374 rate=0.461156 x=21
+win=19611 visit=39018 rate=0.502614 x=23
+win=13873 visit=27707 rate=0.500704 x=24
+win=20906 visit=41824 rate=0.499857 x=25
+win=28579 visit=57210 rate=0.499546 x=26
+win=23184 visit=46182 rate=0.502014 x=27
+win=18396 visit=36686 rate=0.501445 x=28
+win=16062 visit=32062 rate=0.500967 x=29
+win=11170 visit=22311 rate=0.500650 x=30
+win=11667 visit=23086 rate=0.505371 x=31
+win=17858 visit=35735 rate=0.499734 x=34
+win=10463 visit=21139 rate=0.494962 x=36
+win=34507 visit=69048 rate=0.499754 x=40
+win=14722 visit=29502 rate=0.499017 x=41
+win=13374 visit=26845 rate=0.498193 x=42
+win=16000 visit=31950 rate=0.500782 x=43
+win=41445 visit=82589 rate=0.501822 x=44
+win=25492 visit=51276 rate=0.497153 x=45
+win=23425 visit=46604 rate=0.502639 x=46
+win=11090 visit=21931 rate=0.505677 x=47
+win=9276 visit=18533 rate=0.500513 x=48
+win=9860 visit=19693 rate=0.500686 x=53
+win=9213 visit=18417 rate=0.500244 x=54
+win=5860 visit=11902 rate=0.492354 x=55
+win=5357 visit=10866 rate=0.493006 x=56
+win=5198 visit=10409 rate=0.499376 x=57
+win=5734 visit=11518 rate=0.497829 x=58
+win=5071 visit=10186 rate=0.497840 x=59
+final win=19236 visit=37982 rate=0.506450 x=6
+final headvisit=1480826,cnt=45
+
+
+win=20709 visit=41175 rate=0.502951 x=0
+win=12079 visit=23683 rate=0.510028 x=1
+win=12784 visit=25292 rate=0.505456 x=2
+win=17600 visit=34792 rate=0.505863 x=3
+win=12870 visit=25355 rate=0.507592 x=4
+win=15930 visit=31601 rate=0.504098 x=5
+win=5235 visit=12250 rate=0.427347 x=7
+win=5919 visit=13601 rate=0.435189 x=8
+win=19511 visit=41499 rate=0.470156 x=9
+win=20541 visit=40742 rate=0.504173 x=11
+win=4753 visit=10322 rate=0.460473 x=12
+win=42737 visit=95165 rate=0.449083 x=14
+win=39035 visit=84820 rate=0.460210 x=15
+win=24292 visit=48427 rate=0.501621 x=17
+win=15244 visit=30422 rate=0.501085 x=18
+win=31696 visit=63037 rate=0.502816 x=19
+win=58496 visit=117904 rate=0.496132 x=20
+win=15606 visit=33525 rate=0.465503 x=21
+win=20283 visit=40086 rate=0.505987 x=23
+win=15260 visit=30161 rate=0.505951 x=24
+win=21894 visit=43502 rate=0.503287 x=25
+win=31712 visit=63014 rate=0.503253 x=26
+win=24349 visit=48252 rate=0.504622 x=27
+win=19869 visit=39243 rate=0.506307 x=28
+win=17357 visit=34280 rate=0.506330 x=29
+win=14334 visit=28539 rate=0.502260 x=30
+win=2755 visit=6466 rate=0.426075 x=31
+win=18577 visit=36875 rate=0.503783 x=34
+win=13320 visit=26637 rate=0.500056 x=36
+win=32697 visit=65442 rate=0.499633 x=40
+win=14338 visit=28640 rate=0.500628 x=41
+win=16250 visit=32446 rate=0.500832 x=42
+win=17338 visit=34470 rate=0.502988 x=43
+win=27687 visit=55151 rate=0.502022 x=44
+win=31681 visit=62651 rate=0.505674 x=46
+win=12499 visit=24586 rate=0.508379 x=47
+win=11853 visit=23202 rate=0.510861 x=48
+win=11853 visit=23306 rate=0.508581 x=53
+win=9846 visit=19532 rate=0.504096 x=54
+win=7819 visit=15415 rate=0.507233 x=55
+win=4605 visit=9334 rate=0.493358 x=56
+win=3887 visit=7975 rate=0.487398 x=57
+win=5393 visit=10826 rate=0.498153 x=58
+win=5831 visit=11497 rate=0.507176 x=59
+final win=11853 visit=23202 rate=0.510861 x=48
+final headvisit=1595140,cnt=44
+
+
+win=21477 visit=42545 rate=0.504807 x=0
+win=11171 visit=21900 rate=0.510091 x=1
+win=12621 visit=24802 rate=0.508870 x=2
+win=7858 visit=16529 rate=0.475407 x=3
+win=17190 visit=34018 rate=0.505321 x=5
+win=11021 visit=24333 rate=0.452924 x=7
+win=6256 visit=14129 rate=0.442777 x=8
+win=15522 visit=33786 rate=0.459421 x=9
+win=22733 visit=44931 rate=0.505954 x=11
+win=8014 visit=16745 rate=0.478591 x=12
+win=9979 visit=29189 rate=0.341875 x=14
+win=48158 visit=95043 rate=0.506697 x=17
+win=22621 visit=44681 rate=0.506278 x=18
+win=39970 visit=79589 rate=0.502205 x=19
+win=122327 visit=241012 rate=0.507556 x=20
+win=20331 visit=42874 rate=0.474203 x=21
+win=24415 visit=48123 rate=0.507346 x=23
+win=16868 visit=33475 rate=0.503898 x=24
+win=26654 visit=53072 rate=0.502223 x=25
+win=38434 visit=76676 rate=0.501252 x=26
+win=25770 visit=51391 rate=0.501450 x=27
+win=20768 visit=41265 rate=0.503284 x=28
+win=13799 visit=27666 rate=0.498771 x=29
+win=20560 visit=40343 rate=0.509630 x=30
+win=3638 visit=7994 rate=0.455091 x=31
+win=20733 visit=41314 rate=0.501840 x=34
+win=18850 visit=37099 rate=0.508100 x=36
+win=85623 visit=168560 rate=0.507967 x=40
+win=19200 visit=37908 rate=0.506489 x=41
+win=15340 visit=30693 rate=0.499788 x=42
+win=10173 visit=20205 rate=0.503489 x=43
+win=63087 visit=124011 rate=0.508721 x=46
+win=17526 visit=34446 rate=0.508796 x=47
+win=13977 visit=27672 rate=0.505095 x=53
+win=11082 visit=21948 rate=0.504921 x=54
+win=10280 visit=20134 rate=0.510579 x=55
+win=2909 visit=5875 rate=0.495149 x=56
+win=5955 visit=11705 rate=0.508757 x=57
+win=5674 visit=11345 rate=0.500132 x=58
+win=5922 visit=11722 rate=0.505204 x=59
+final win=10280 visit=20134 rate=0.510579 x=55
+final headvisit=1790748,cnt=40
+
+
+win=71692 visit=139992 rate=0.512115 x=0
+win=47482 visit=92557 rate=0.513003 x=1
+win=16882 visit=33180 rate=0.508800 x=2
+win=6169 visit=12732 rate=0.484527 x=3
+win=15115 visit=29768 rate=0.507760 x=5
+win=12021 visit=32018 rate=0.375445 x=7
+win=40646 visit=79452 rate=0.511579 x=11
+win=9212 visit=18941 rate=0.486352 x=12
+win=26950 visit=72901 rate=0.369679 x=14
+win=29661 visit=58790 rate=0.504525 x=17
+win=20547 visit=40533 rate=0.506920 x=18
+win=64550 visit=126827 rate=0.508961 x=19
+win=119318 visit=234683 rate=0.508422 x=20
+win=24121 visit=49654 rate=0.485782 x=21
+win=17647 visit=34995 rate=0.504272 x=23
+win=14480 visit=28819 rate=0.502446 x=24
+win=23195 visit=46151 rate=0.502589 x=25
+win=47894 visit=93639 rate=0.511475 x=26
+win=19111 visit=38282 rate=0.499216 x=27
+win=17328 visit=34333 rate=0.504704 x=28
+win=13192 visit=26228 rate=0.502974 x=29
+win=67890 visit=133053 rate=0.510248 x=30
+win=21790 visit=42993 rate=0.506827 x=34
+win=13881 visit=27308 rate=0.508313 x=36
+win=95395 visit=187523 rate=0.508711 x=40
+win=17385 visit=34516 rate=0.503679 x=41
+win=10402 visit=20443 rate=0.508829 x=42
+win=58185 visit=113786 rate=0.511355 x=46
+win=14730 visit=29133 rate=0.505612 x=47
+win=13495 visit=26574 rate=0.507827 x=53
+win=7387 visit=14526 rate=0.508536 x=54
+win=2152 visit=4262 rate=0.504927 x=56
+win=4625 visit=9240 rate=0.500541 x=57
+win=5422 visit=10794 rate=0.502316 x=58
+win=5180 visit=10307 rate=0.502571 x=59
+final win=47482 visit=92557 rate=0.513003 x=1
+final headvisit=1988933,cnt=35
+
+
+win=49684 visit=96816 rate=0.513180 x=0
+win=8830 visit=18345 rate=0.481330 x=2
+win=9812 visit=20272 rate=0.484017 x=3
+win=48473 visit=94514 rate=0.512866 x=5
+win=673 visit=1866 rate=0.360665 x=7
+win=40827 visit=79941 rate=0.510714 x=11
+win=8101 visit=16914 rate=0.478952 x=12
+win=543 visit=1576 rate=0.344543 x=14
+win=46568 visit=90884 rate=0.512389 x=17
+win=34687 visit=68218 rate=0.508473 x=18
+win=42962 visit=84013 rate=0.511373 x=19
+win=4432 visit=9639 rate=0.459799 x=20
+win=3845 visit=8460 rate=0.454492 x=21
+win=3263 visit=7281 rate=0.448153 x=22
+win=35948 visit=70628 rate=0.508977 x=23
+win=37380 visit=73362 rate=0.509528 x=24
+win=32963 visit=64921 rate=0.507740 x=25
+win=36923 visit=72490 rate=0.509353 x=26
+win=44582 visit=87101 rate=0.511843 x=27
+win=38039 visit=74621 rate=0.509763 x=28
+win=43352 visit=84756 rate=0.511492 x=29
+win=42465 visit=83065 rate=0.511226 x=30
+win=44380 visit=86716 rate=0.511786 x=34
+win=44422 visit=86796 rate=0.511798 x=40
+win=43443 visit=84932 rate=0.511503 x=41
+win=44904 visit=87715 rate=0.511931 x=42
+win=45698 visit=89228 rate=0.512149 x=47
+win=38254 visit=75031 rate=0.509843 x=53
+win=44923 visit=87750 rate=0.511943 x=54
+win=44373 visit=86703 rate=0.511782 x=56
+win=42226 visit=82611 rate=0.511143 x=57
+win=46997 visit=91702 rate=0.512497 x=58
+win=45317 visit=88501 rate=0.512051 x=59
+final win=49684 visit=96816 rate=0.513180 x=0
+final headvisit=2157368,cnt=33
+
+
+win=23101 visit=46653 rate=0.495166 x=2
+win=23519 visit=47468 rate=0.495471 x=3
+win=52406 visit=103402 rate=0.506818 x=5
+win=474 visit=1445 rate=0.328028 x=7
+win=51187 visit=101053 rate=0.506536 x=11
+win=19929 visit=40457 rate=0.492597 x=12
+win=502 visit=1508 rate=0.332891 x=14
+win=56546 visit=111380 rate=0.507685 x=17
+win=54539 visit=107514 rate=0.507273 x=18
+win=54236 visit=106930 rate=0.507210 x=19
+win=6198 visit=13349 rate=0.464304 x=20
+win=7972 visit=16901 rate=0.471688 x=21
+win=8868 visit=18687 rate=0.474555 x=22
+win=55300 visit=108980 rate=0.507433 x=23
+win=51901 visit=102431 rate=0.506692 x=24
+win=56593 visit=111470 rate=0.507697 x=25
+win=54278 visit=107011 rate=0.507219 x=26
+win=24303 visit=48996 rate=0.496020 x=27
+win=54401 visit=107248 rate=0.507245 x=29
+win=52892 visit=104341 rate=0.506915 x=34
+win=49375 visit=97559 rate=0.506104 x=40
+win=57175 visit=112591 rate=0.507811 x=41
+win=58906 visit=115925 rate=0.508139 x=42
+win=56037 visit=110399 rate=0.507586 x=47
+win=56929 visit=112117 rate=0.507764 x=54
+win=46226 visit=91481 rate=0.505307 x=56
+win=56204 visit=110720 rate=0.507623 x=57
+win=54107 visit=106681 rate=0.507185 x=58
+win=48532 visit=95932 rate=0.505900 x=59
+final win=58906 visit=115925 rate=0.508139 x=42
+final headvisit=2360629,cnt=29
+
+
+win=2850 visit=6756 rate=0.421847 x=2
+win=56802 visit=115266 rate=0.492791 x=5
+win=425 visit=1380 rate=0.307971 x=7
+win=82281 visit=165704 rate=0.496554 x=11
+win=36938 visit=75771 rate=0.487495 x=12
+win=925 visit=2550 rate=0.362745 x=14
+win=78082 visit=157388 rate=0.496112 x=17
+win=74482 visit=150284 rate=0.495608 x=18
+win=84346 visit=169786 rate=0.496778 x=19
+win=14230 visit=30202 rate=0.471161 x=20
+win=12712 visit=27121 rate=0.468714 x=21
+win=15161 visit=32088 rate=0.472482 x=22
+win=74463 visit=150248 rate=0.495601 x=23
+win=81317 visit=163799 rate=0.496444 x=24
+win=64383 visit=130295 rate=0.494133 x=25
+win=79164 visit=159543 rate=0.496192 x=26
+win=31577 visit=65071 rate=0.485270 x=27
+win=26716 visit=55342 rate=0.482744 x=29
+win=70116 visit=141644 rate=0.495016 x=34
+win=76142 visit=153569 rate=0.495816 x=40
+win=90640 visit=182217 rate=0.497429 x=41
+win=81929 visit=165008 rate=0.496515 x=47
+win=58455 visit=118546 rate=0.493100 x=54
+win=58966 visit=119558 rate=0.493200 x=56
+win=59524 visit=120664 rate=0.493304 x=57
+final win=90640 visit=182217 rate=0.497429 x=41
+final headvisit=2659800,cnt=25
+
+
+win=5407 visit=12213 rate=0.442725 x=2
+win=51279 visit=104897 rate=0.488851 x=5
+win=453 visit=1461 rate=0.310062 x=7
+win=80196 visit=162490 rate=0.493544 x=11
+win=27079 visit=56394 rate=0.480175 x=12
+win=974 visit=2684 rate=0.362891 x=14
+win=86101 visit=174223 rate=0.494200 x=17
+win=74447 visit=151046 rate=0.492876 x=18
+win=73919 visit=150009 rate=0.492764 x=19
+win=10175 visit=22086 rate=0.460699 x=20
+win=9642 visit=20990 rate=0.459362 x=21
+win=10154 visit=22042 rate=0.460666 x=22
+win=589940 visit=1166910 rate=0.505557 x=23
+win=31629 visit=65547 rate=0.482539 x=24
+win=73794 visit=149760 rate=0.492748 x=26
+win=21360 visit=44854 rate=0.476212 x=27
+win=21217 visit=44562 rate=0.476123 x=29
+win=66826 visit=135894 rate=0.491751 x=40
+win=91190 visit=184328 rate=0.494716 x=47
+win=45919 visit=94187 rate=0.487530 x=54
+win=51005 visit=104347 rate=0.488802 x=56
+win=52094 visit=106522 rate=0.489045 x=57
+final win=589940 visit=1166910 rate=0.505557 x=23
+final headvisit=2977446,cnt=22
+
+
+win=3548 visit=8246 rate=0.430269 x=2
+win=33852 visit=69608 rate=0.486323 x=5
+win=735 visit=2122 rate=0.346371 x=7
+win=55027 visit=111723 rate=0.492531 x=11
+win=14988 visit=31743 rate=0.472167 x=12
+win=5492 visit=12322 rate=0.445707 x=14
+win=45316 visit=92439 rate=0.490226 x=17
+win=438872 visit=858040 rate=0.511482 x=18
+win=513661 visit=1011064 rate=0.508040 x=19
+win=4015 visit=9231 rate=0.434947 x=20
+win=5825 visit=13011 rate=0.447698 x=24
+win=6574 visit=14564 rate=0.451387 x=25
+win=5276 visit=11871 rate=0.444444 x=27
+win=8640 visit=18820 rate=0.459086 x=29
+win=6061 visit=13501 rate=0.448930 x=40
+win=5629 visit=12605 rate=0.446569 x=47
+win=5646 visit=12641 rate=0.446642 x=53
+win=30900 visit=63712 rate=0.484995 x=54
+win=623187 visit=1224945 rate=0.508747 x=56
+final win=438872 visit=858040 rate=0.511482 x=18
+final headvisit=3592208,cnt=19
+
+
+win=5373 visit=13702 rate=0.392133 x=2
+win=3817 visit=10024 rate=0.380786 x=7
+win=739750 visit=1632599 rate=0.453112 x=11
+win=55157 visit=126171 rate=0.437161 x=12
+win=5763 visit=14614 rate=0.394348 x=14
+win=432392 visit=958238 rate=0.451237 x=17
+win=55910 visit=127849 rate=0.437313 x=19
+win=11859 visit=28717 rate=0.412961 x=20
+win=60523 visit=138136 rate=0.438141 x=24
+win=51019 visit=116934 rate=0.436306 x=25
+win=81631 visit=184121 rate=0.443355 x=27
+win=89045 visit=201563 rate=0.441773 x=29
+win=53349 visit=122136 rate=0.436800 x=33
+win=56069 visit=128204 rate=0.437342 x=40
+win=65406 visit=149013 rate=0.438928 x=47
+win=63551 visit=144881 rate=0.438643 x=53
+win=315150 visit=700523 rate=0.449878 x=56
+final win=739750 visit=1632599 rate=0.453112 x=11
+final headvisit=4797425,cnt=17
+
+
+win=187385 visit=2075507 rate=0.090284 x=2
+win=23675 visit=292206 rate=0.081022 x=7
+win=45926 visit=540640 rate=0.084947 x=12
+win=4971 visit=74719 rate=0.066529 x=14
+win=55184 visit=642789 rate=0.085851 x=19
+win=5334 visit=79180 rate=0.067365 x=20
+win=54499 visit=635247 rate=0.085792 x=24
+win=55579 visit=647136 rate=0.085885 x=25
+win=58920 visit=683877 rate=0.086156 x=27
+win=88757 visit=1010063 rate=0.087873 x=29
+win=58765 visit=682174 rate=0.086144 x=33
+win=73151 visit=839833 rate=0.087102 x=40
+win=59821 visit=693775 rate=0.086225 x=47
+win=41638 visit=493139 rate=0.084435 x=53
+final win=187385 visit=2075507 rate=0.090284 x=2
+final headvisit=9390285,cnt=14
+
+
+win=24743 visit=2539672 rate=0.009743 x=7
+win=4664 visit=805472 rate=0.005790 x=12
+win=1862 visit=520178 rate=0.003580 x=14
+win=4642 visit=803339 rate=0.005778 x=19
+win=1834 visit=517135 rate=0.003546 x=20
+win=5017 visit=839541 rate=0.005976 x=24
+win=3840 visit=724643 rate=0.005299 x=25
+win=8208 visit=1136604 rate=0.007222 x=27
+win=17846 visit=1971031 rate=0.009054 x=29
+win=4081 visit=748487 rate=0.005452 x=33
+win=5672 visit=902004 rate=0.006288 x=40
+win=10288 visit=1322754 rate=0.007778 x=47
+win=13089 visit=1567226 rate=0.008352 x=53
+final win=24743 visit=2539672 rate=0.009743 x=7
+final headvisit=14398086,cnt=13
+
+
+win=1816 visit=1764561 rate=0.001029 x=12
+win=117 visit=1328109 rate=0.000088 x=14
+win=1884 visit=1781070 rate=0.001058 x=19
+win=1804 visit=1761640 rate=0.001024 x=24
+win=1727 visit=1742864 rate=0.000991 x=25
+win=1694 visit=1734791 rate=0.000976 x=27
+win=2446 visit=1915477 rate=0.001277 x=29
+win=1707 visit=1737972 rate=0.000982 x=33
+win=1846 visit=1771852 rate=0.001042 x=40
+win=1765 visit=1752138 rate=0.001007 x=47
+win=1829 visit=1767721 rate=0.001035 x=53
+final win=2446 visit=1915477 rate=0.001277 x=29
+final headvisit=19058195,cnt=11
+
+
+win=0 visit=3722687 rate=0.000000 x=14
+win=314 visit=3867785 rate=0.000081 x=24
+win=231 visit=3829693 rate=0.000060 x=25
+win=216 visit=3822789 rate=0.000057 x=27
+win=319 visit=3870074 rate=0.000082 x=40
+win=301 visit=3861831 rate=0.000078 x=47
+win=301 visit=3861831 rate=0.000078 x=53
+final win=319 visit=3870074 rate=0.000082 x=40
+final headvisit=26836690,cnt=7
+
+
+win=0 visit=38950473 rate=0.000000 x=14
+final win=0 visit=38950473 rate=0.000000 x=14
+final headvisit=38950473,cnt=1
+
+
