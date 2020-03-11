@@ -14,8 +14,8 @@ UCTNode *root;
 
 
 int UCTTempMap[13][13];
+
 void UCTSearch() {
-	//³õÊ¼»¯¸ù½áµã
 	root = (UCTNode *)malloc(sizeof(UCTNode));
 	root->father = NULL;
 	root->son = NULL;
@@ -27,40 +27,35 @@ void UCTSearch() {
 	root->backScore = Score[1];
 	root->move.a = BestMove.a;
 	root->move.b = BestMove.b;
-	root->move.color = 1-BestMove.color;//¸ù½ÚµãÊÇ¶ÔÊÖÏÂµÄÆå
+	root->move.color = 1-BestMove.color;
 	root->move.exchange = BestMove.exchange;
 	MapCopy(Map,root->currentMap);
 	
-	//¿ØÖÆ¼ôÖ¦µÄUCTTempMap
 	MapCopy(Map, UCTTempMap);
 	TempMapSet();
 	
-	//¿ªÊ¼¼ÆÊ±
 	time_t start, end;
 	start = time(NULL);
 	end = time(NULL);
 
-	UCTExpand(root);//À©Õ¹ÏÂÒ»²ã½Úµã
+	UCTExpand(root);
 	int cnt = 0;
 	UCTNode *p;
 	bool AIwin = false;
 	while (end-start<5/*cnt<200000*/)
 	{
-		p = UCTChooseSimNode(root->son);//ÕÒµ½ÐèÒª½øÐÐÄ£ÄâµÄ½Úµã
-		AIwin = PlaySimulation(p);//½øÐÐÄ£Äâ
-		UpdateValue(AIwin,p);//Öð²ã·µ»Ø¸üÐÂÊ¤ÂÊ
-		//¸üÐÂ¼ÆÊ±Æ÷
+		p = UCTChooseSimNode(root->son);
+		AIwin = PlaySimulation(p);
+		UpdateValue(AIwin,p);
 		end = time(NULL);
 		cnt++;
 	}
 	p = root->son;
 	double maxRate = 0,rate=-INF;
 	UCTNode *q=p;
-	//ÕÒµ½UCB×î´óµÄµãÐÞ¸ÄBestMove
 	while (p!=NULL)
 	{
 		rate = (double)(p->win) / (double)(p->visit);
-		//printf("move %c%c rate: %3f visit:%d win:%d\n", p->move.a+'A'-1,p->move.b+'A'-1,rate,p->visit,p->win);
 		if (rate>maxRate)
 		{
 			maxRate = rate;
@@ -80,20 +75,20 @@ bool UCTExpand(UCTNode *root) {
 	UCTNode *node;
 	int cnt = 0;
 	bool flagHaveDelete = false;
-	//ËÑË÷¿ÉÒÔÏÂµÄ±ß
+	//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÂµÄ±ï¿½
 	for (int i = 1; i <12 ; i++)
 	{
 		for (int j = 1; j < 12; j++)
 		{
-			//ÊÇ¿ÉÒÔÏÂµÄµã
+			//ï¿½Ç¿ï¿½ï¿½ï¿½ï¿½ÂµÄµï¿½
 			if (((i % 2 == 0 && j % 2 == 1) || (i % 2 == 1 && j % 2 == 0)) && root->currentMap[i][j] == 0) {
-				//ÊÇµÚÒ»´ÎÀ©Õ¹,µ«²»ºÏÊÊÔò¼ÌÐøÕÒ
+				//ï¿½Çµï¿½Ò»ï¿½ï¿½ï¿½ï¿½Õ¹,ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 				if (root->father==NULL&&suitableStep(root,i,j)==false)
 				{
 					flagHaveDelete = true;
 					continue;		
 				}
-				//´´½¨Ò»¸ö×Ó½Úµã
+				//ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½Ó½Úµï¿½
 				node = newNode();
 				//tempNode = node;
 				node->brother = NULL;
@@ -103,13 +98,13 @@ bool UCTExpand(UCTNode *root) {
 				node->win = 0;
 				node->frontScore = root->frontScore;
 				node->backScore = root->backScore;
-				MapCopy(root->currentMap, node->currentMap);//¸´ÖÆÊý×éµ½ÐÂµÄ½ÚµãÖÐ
+				MapCopy(root->currentMap, node->currentMap);//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½éµ½ï¿½ÂµÄ½Úµï¿½ï¿½ï¿½
 				node->currentMap[i][j] = 1;
 				node->move.a = i;
 				node->move.b = j;
-				//¼ÙÈçÇ°Ò»²½Ã»ÓÐµÃ·Ö
+				//ï¿½ï¿½ï¿½ï¿½Ç°Ò»ï¿½ï¿½Ã»ï¿½ÐµÃ·ï¿½
 				if (!root->getScore)
-				{//¸Ä±ä×´Ì¬
+				{//ï¿½Ä±ï¿½×´Ì¬
 					node->move.color = 1 - root->move.color;
 				}
 				node->getScore = JudgeGetScore(root, i, j, node);
@@ -135,17 +130,17 @@ bool UCTExpand(UCTNode *root) {
 		}
 	}
 
-	//ÓÉÓÚ±»É¾µ¼ÖÂÃ»ÓÐ¿ÉÒÔÏÂµÄ±ß£¬ÔÚ²»É¾µÄÇé¿öÏÂÖØÐÂ´´½¨
+	//ï¿½ï¿½ï¿½Ú±ï¿½É¾ï¿½ï¿½ï¿½ï¿½Ã»ï¿½Ð¿ï¿½ï¿½ï¿½ï¿½ÂµÄ±ß£ï¿½ï¿½Ú²ï¿½É¾ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â´ï¿½ï¿½ï¿½
 	if (cnt==0&&flagHaveDelete)
 	{
 		for (int i = 1; i <12; i++)
 		{
 			for (int j = 1; j < 12; j++)
 			{
-				//ÊÇ¿ÉÒÔÏÂµÄµã
+				//ï¿½Ç¿ï¿½ï¿½ï¿½ï¿½ÂµÄµï¿½
 				if (((i % 2 == 0 && j % 2 == 1) || (i % 2 == 1 && j % 2 == 0)) && root->currentMap[i][j] == 0) {
 					
-					//´´½¨Ò»¸ö×Ó½Úµã
+					//ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½Ó½Úµï¿½
 					node = newNode();
 					//tempNode = node;
 					node->brother = NULL;
@@ -155,13 +150,13 @@ bool UCTExpand(UCTNode *root) {
 					node->win = 0;
 					node->frontScore = root->frontScore;
 					node->backScore = root->backScore;
-					MapCopy(root->currentMap, node->currentMap);//¸´ÖÆÊý×éµ½ÐÂµÄ½ÚµãÖÐ
+					MapCopy(root->currentMap, node->currentMap);//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½éµ½ï¿½ÂµÄ½Úµï¿½ï¿½ï¿½
 					node->currentMap[i][j] = 1;
 					node->move.a = i;
 					node->move.b = j;
-					//¼ÙÈçÇ°Ò»²½Ã»ÓÐµÃ·Ö
+					//ï¿½ï¿½ï¿½ï¿½Ç°Ò»ï¿½ï¿½Ã»ï¿½ÐµÃ·ï¿½
 					if (!root->getScore)
-					{//¸Ä±ä×´Ì¬
+					{//ï¿½Ä±ï¿½×´Ì¬
 						node->move.color = 1 - root->move.color;
 					}
 					node->getScore = JudgeGetScore(root, i, j, node);
@@ -188,7 +183,7 @@ bool UCTExpand(UCTNode *root) {
 		}
 	}
 
-	//Ã»ÓÐ¿ÉÒÔÏÂµÄ±ßExbandÊ§°Ü
+	//Ã»ï¿½Ð¿ï¿½ï¿½ï¿½ï¿½ÂµÄ±ï¿½ExbandÊ§ï¿½ï¿½
 	if (cnt == 0) {
 		return false;
 	}
@@ -218,7 +213,7 @@ UCTNode * UCTChooseSimNode(UCTNode *head) {
 		if (chosenNode->son==NULL)
 		{
 			bool canExpand= UCTExpand(chosenNode);
-			//¿ÉÒÔÀ©Õ¹
+			//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Õ¹
 			if (canExpand)
 			{
 				chosenNode = UCTChooseSimNode(chosenNode->son);
@@ -245,7 +240,7 @@ bool PlaySimulation(UCTNode *simulateNode) {
 
 	bool getScore = false;
 	MapCopy(simulateNode->currentMap, tempSim->currentMap);
-	//ÕÒ³ö¿ÉÒÔÏÂµÄ±ß
+	//ï¿½Ò³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÂµÄ±ï¿½
 	for (int i = 1; i < MAPLENGTH-1; i++)
 	{
 		for (int j = 1; j < MAPLENGTH-1; j++)
@@ -258,29 +253,29 @@ bool PlaySimulation(UCTNode *simulateNode) {
 			}
 		}
 	}
-	if (!tempSim->getScore)//¼ÙÈçÃ»ÓÐµÃ·Öµ½¶ÔÊÖÏÂ
+	if (!tempSim->getScore)//ï¿½ï¿½ï¿½ï¿½Ã»ï¿½ÐµÃ·Öµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 	{
 		tempSim->move.color = 1-tempSim->move.color;
 	}
-	//²»Í£rand()Ö±µ½ÏÂÍêÕâÅÌÆå
+	//ï¿½ï¿½Í£rand()Ö±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 	while (1)
 	{
 		lengthOfrest--;
-		if (lengthOfrest <= -1)//ËùÓÐ±ß¶¼×ßÍê
+		if (lengthOfrest <= -1)//ï¿½ï¿½ï¿½Ð±ß¶ï¿½ï¿½ï¿½ï¿½ï¿½
 		{
 			break;
 		}
 		int side = 0;
 		
-		side = rand() % (lengthOfrest+1);//µ±Ç°Ñ¡ÔñµÄ±ß
+		side = rand() % (lengthOfrest+1);//ï¿½ï¿½Ç°Ñ¡ï¿½ï¿½Ä±ï¿½
 
 		getScore = JudgeGetScore(tempSim, restStep[side].a, restStep[side].b, tempSim);
 		if (!getScore)
 		{
 			tempSim->move.color = 1 - tempSim->move.color;
 		}
-		tempSim->currentMap[restStep[side].a][restStep[side].b] = 1;//¸Ä±äÊý×éÖÐ±ßµÄ×´Ì¬±íÊ¾·ÃÎÊ¹ýÁË
-		 //È¥µô·ÃÎÊ¹ýµÄ±ß(µ±Ç°·ÃÎÊµÄ±ßÓë×îºóÒ»¸öÎ´·ÃÎÊµÄ±ß½»»»)
+		tempSim->currentMap[restStep[side].a][restStep[side].b] = 1;//ï¿½Ä±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð±ßµï¿½×´Ì¬ï¿½ï¿½Ê¾ï¿½ï¿½ï¿½Ê¹ï¿½ï¿½ï¿½
+		 //È¥ï¿½ï¿½ï¿½ï¿½ï¿½Ê¹ï¿½ï¿½Ä±ï¿½(ï¿½ï¿½Ç°ï¿½ï¿½ï¿½ÊµÄ±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½Î´ï¿½ï¿½ï¿½ÊµÄ±ß½ï¿½ï¿½ï¿½)
 		restStep[side].a = restStep[lengthOfrest].a;
 		restStep[side].b= restStep[lengthOfrest].b;
 		//test
@@ -288,7 +283,7 @@ bool PlaySimulation(UCTNode *simulateNode) {
 		restStep[lengthOfrest].b = -99;
 		
 	}
-	if (tempSim->backScore>tempSim->frontScore)//ºóÊÖÓ®Æå
+	if (tempSim->backScore>tempSim->frontScore)//ï¿½ï¿½ï¿½ï¿½Ó®ï¿½ï¿½
 	{
 		if (OurColor == 1) {
 			delete(tempSim);
@@ -329,7 +324,6 @@ void UpdateValue(bool AIwin,UCTNode *p) {
 
 bool JudgeGetScore(UCTNode* judgeNode, int iTemp, int jTemp, UCTNode* change) {
 	int flag = -1;
-	//±ßÏÂÔÚµÚÒ»ÐÐ
 	if (iTemp == 1)
 	{
 		if (judgeNode->currentMap[iTemp + 1][jTemp - 1] != 0 && judgeNode->currentMap[iTemp + 1][jTemp - 1] != 0 && judgeNode->currentMap[iTemp + 2][jTemp] != 0) {
@@ -337,7 +331,7 @@ bool JudgeGetScore(UCTNode* judgeNode, int iTemp, int jTemp, UCTNode* change) {
 			flag = change->move.color;
 		}
 	}
-	//±ßÏÂÔÚ×îºóÒ»ÐÐ
+
 	else if (iTemp == MAPLENGTH - 2)
 	{
 		if (judgeNode->currentMap[iTemp - 1][jTemp - 1] != 0 && judgeNode->currentMap[iTemp - 1][jTemp - 1] != 0 && judgeNode->currentMap[iTemp - 2][jTemp] != 0) {
@@ -345,7 +339,6 @@ bool JudgeGetScore(UCTNode* judgeNode, int iTemp, int jTemp, UCTNode* change) {
 			flag = change->move.color;
 		}
 	}
-	//±ßÏÂÔÚµÚÒ»ÁÐ
 	else if (jTemp == 1)
 	{
 		if (judgeNode->currentMap[iTemp + 1][jTemp + 1] != 0 && judgeNode->currentMap[iTemp - 1][jTemp + 1] != 0 && judgeNode->currentMap[iTemp][jTemp + 2] != 0) {
@@ -353,7 +346,7 @@ bool JudgeGetScore(UCTNode* judgeNode, int iTemp, int jTemp, UCTNode* change) {
 			flag = change->move.color;
 		}
 	}
-	//±ßÏÂÔÚ×îºóÒ»ÁÐ
+
 	else if (jTemp == MAPLENGTH - 2)
 	{
 		if (judgeNode->currentMap[iTemp + 1][jTemp - 1] != 0 && judgeNode->currentMap[iTemp - 1][jTemp - 1] != 0 && judgeNode->currentMap[iTemp][jTemp - 2] != 0) {
@@ -361,7 +354,7 @@ bool JudgeGetScore(UCTNode* judgeNode, int iTemp, int jTemp, UCTNode* change) {
 			flag = change->move.color;
 		}
 	}
-	//±ßÔÚµÚ¶þÐÐ»òµ¹ÊýµÚ¶þÐÐ
+
 	else if (iTemp == 2 || iTemp == MAPLENGTH - 3)
 	{
 		if (judgeNode->currentMap[iTemp + 1][jTemp - 1] != 0 && judgeNode->currentMap[iTemp - 1][jTemp - 1] != 0 && judgeNode->currentMap[iTemp][jTemp - 2] != 0) {
@@ -375,7 +368,6 @@ bool JudgeGetScore(UCTNode* judgeNode, int iTemp, int jTemp, UCTNode* change) {
 		}
 
 	}
-	//±ßÔÚµÚ¶þÁÐ»òµ¹ÊýµÚ¶þÁÐ
 	else if (jTemp == 2 || jTemp == MAPLENGTH - 3)
 	{
 		if (judgeNode->currentMap[iTemp + 1][jTemp - 1] != 0 && judgeNode->currentMap[iTemp + 1][jTemp + 1] != 0 && judgeNode->currentMap[iTemp + 2][jTemp] != 0) {
@@ -388,6 +380,8 @@ bool JudgeGetScore(UCTNode* judgeNode, int iTemp, int jTemp, UCTNode* change) {
 			flag = change->move.color;
 		}
 	}
+
+	
 	else
 	{
 		if (judgeNode->currentMap[iTemp + 1][jTemp - 1] != 0 && judgeNode->currentMap[iTemp + 1][jTemp + 1] != 0 && judgeNode->currentMap[iTemp + 2][jTemp] != 0) {
@@ -410,13 +404,13 @@ bool JudgeGetScore(UCTNode* judgeNode, int iTemp, int jTemp, UCTNode* change) {
 		}
 	}
 
-	//Èç¹ûÊÇºóÊÖµÃ·Ö
+	//ï¿½ï¿½ï¿½ï¿½Çºï¿½ï¿½ÖµÃ·ï¿½
 	if (flag == 1)
 	{
 		change->backScore++;
 		return true;
 	}
-	//Èç¹ûÊÇÏÈÊÖµÃ·Ö
+	//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÖµÃ·ï¿½
 	else if (flag == 0)
 	{
 		change->frontScore++;
@@ -426,11 +420,11 @@ bool JudgeGetScore(UCTNode* judgeNode, int iTemp, int jTemp, UCTNode* change) {
 }
 
 
-//µ±Ç°×´Ì¬ÏÂÔÚijÎ»ÖÃÊÇ·ñºÏÊÊ
-//ÏÂÔÚÕâÌõ±ßÊÇ·ñ»áÒýÆðÖÜ±ß¸ñ×ÓµÄ²»×ÔÓÉ¶È±äÎª1
+//ï¿½ï¿½Ç°×´Ì¬ï¿½ï¿½ï¿½ï¿½ijÎ»ï¿½ï¿½ï¿½Ç·ï¿½ï¿½ï¿½ï¿½
+//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü±ß¸ï¿½ï¿½ÓµÄ²ï¿½ï¿½ï¿½ï¿½É¶È±ï¿½Îª1
 bool suitableStep(UCTNode *rootStrp, int posI, int posJ) {
 	bool flagOfSuit = true;
-	//µÚÒ»ÐÐ
+	//ï¿½ï¿½Ò»ï¿½ï¿½
 	if (posI==1)
 	{
 		if (UCTTempMap[posI+1][posJ]+1==3)
@@ -438,35 +432,35 @@ bool suitableStep(UCTNode *rootStrp, int posI, int posJ) {
 			flagOfSuit = false;
 		}
 	}
-	else if (posI==11)//×îºóÒ»ÐÐ
+	else if (posI==11)//ï¿½ï¿½ï¿½Ò»ï¿½ï¿½
 	{
 		if (UCTTempMap[posI-1][posJ]+1==3)
 		{
 			flagOfSuit = false;
 		}
 	}
-	else if(posJ==1)//µÚÒ»ÁÐ
+	else if(posJ==1)//ï¿½ï¿½Ò»ï¿½ï¿½
 	{
 		if (UCTTempMap[posI][posJ+1]+1==3)
 		{
 			flagOfSuit = false;
 		}
 	}
-	else if (posJ==11)//×îºóÒ»ÁÐ
+	else if (posJ==11)//ï¿½ï¿½ï¿½Ò»ï¿½ï¿½
 	{
 		if (UCTTempMap[posI][posJ - 1] +1== 3)
 		{
 			flagOfSuit = false;
 		}
 	}
-	else if(posI%2==0)//ÖÐ¼äµÄÊú±ß
+	else if(posI%2==0)//ï¿½Ð¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 	{
 		if (UCTTempMap[posI][posJ+1] +1== 3||UCTTempMap[posI][posJ-1]+1==3)
 		{
 			flagOfSuit = false;
 		}
 	}
-	else//ÖÐ¼äµÄºá±ß
+	else//ï¿½Ð¼ï¿½Äºï¿½ï¿½
 	{
 		if (UCTTempMap[posI +1][posJ]+1 == 3 || UCTTempMap[posI -1][posJ] +1== 3)
 		{
@@ -480,7 +474,7 @@ void TempMapSet() {
 	{
 		for (int j = 1; j < 12; j++)
 		{
-			if (i%2==0&&j%2==0)//ÊÇ¸ñ×Ó
+			if (i%2==0&&j%2==0)//ï¿½Ç¸ï¿½ï¿½ï¿½
 			{
 				UCTTempMap[i][j] = 0;
 				if (UCTTempMap[i-1][j]!=0)

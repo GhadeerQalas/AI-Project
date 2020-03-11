@@ -9,7 +9,7 @@ using namespace std;
 deque<UCTNode *> nodelist;
 deque<UCTNode *> blocklist;
 
-//ÐÂÔö½Úµã
+//
 UCTNode* newNode()
 {
 	UCTNode* p;
@@ -26,7 +26,7 @@ UCTNode* newNode()
 	return p;
 }
 
-//É¾³ý½Úµã
+//É¾ï¿½ï¿½ï¿½Úµï¿½
 void deleteNode(UCTNode* head1)
 {
 	UCTNode *p, *q = head1->son;
@@ -39,7 +39,7 @@ void deleteNode(UCTNode* head1)
 	nodelist.push_back(head1);
 }
 
-//¸´ÖÆµØÍ¼
+//ï¿½ï¿½ï¿½Æµï¿½Í¼
 void MapCopy(int map[13][13],int copyMap[13][13]) {
 	for (int i = 0; i < MAPLENGTH; i++)
 	{
@@ -50,7 +50,7 @@ void MapCopy(int map[13][13],int copyMap[13][13]) {
 	}
 }
 
-//¸´ÖÆÐÐÎª(useless)
+//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Îª(useless)
 void MoveCopy(MoveType currentMove) {
 	currentMove.a = BestMove.a;
 	currentMove.b = BestMove.b;
